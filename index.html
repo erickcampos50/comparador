@@ -11,6 +11,9 @@
 <P>Diante da determinação de sinalização visual de todas as alterações em documentos licitatórios submetidos à AGU (Termo de referência, Contrato, Edital, etc.), surgiu a necessidade de encontrar um recurso simples e flexível para automatizar a nova atividade (que pode ser bastante extenuante e propensa a erros). Este Webapp permite comparar as modificações entre dois textos utilizando o excelente <A HREF="https://github.com/google/diff-match-patch">Diff, Match e Patch</A>.</P>
 
 
+
+
+
 <SCRIPT>
 var dmp = new diff_match_patch();
 
@@ -31,14 +34,17 @@ function launch() {
     dmp.diff_cleanupEfficiency(d);
   }
   var ds = dmp.diff_prettyHtml(d);
-  
+
+
+//Aplica a cor definida pelo usuário  
   var colorAdd = document.getElementById('colorPickerAdd').value;
-  ds = ds.replace(/<ins style="background:#e6ffe6;">/g, '<ins style="background:'+colorAdd+';">');
+  ds = ds.replace(/<ins style="background:#e6ffe6;">/g, '<ins style="color:'+colorAdd+';">');
   
   var colorSub = document.getElementById('colorPickerSub').value;
-  ds = ds.replace(/<del style="background:#ffe6e6;">/g, '<del style="background:'+colorSub+';">');
-  
-  
+  ds = ds.replace(/<del style="background:#ffe6e6;">/g, '<del style="color:'+colorSub+';">');
+
+//Remove a marcação de parágrafo da resposta  
+  ds = ds.replace(/&para;/g, "");
   
   
   
@@ -53,15 +59,15 @@ function launch() {
 // Adiciona uma nova função para alterar a cor de fundo das tags ins e del.
 function changeColorSub() {
   var color = document.getElementById('colorPickerSub').value;
-  var re = /<del style="background:#.{6};">/g;
-  window.diffResult = window.diffResult.replace(re, `<del style="background:${color};">`);
+  var re = /<del style="color:#.{6};">/g;
+  window.diffResult = window.diffResult.replace(re, `<del style="color:${color};">`);
   document.getElementById('outputdiv').innerHTML = window.diffResult;
 }
 
 function changeColorAdd() {
   var color = document.getElementById('colorPickerAdd').value;
-  var re = /<ins style="background:#.{6};">/g;
-  window.diffResult = window.diffResult.replace(re, `<ins style="background:${color};">`);
+  var re = /<ins style="color:#.{6};">/g;
+  window.diffResult = window.diffResult.replace(re, `<ins style="color:${color};">`);
   document.getElementById('outputdiv').innerHTML = window.diffResult;
 }
 
@@ -108,8 +114,10 @@ function convertHtml(originalHtml) {
     element.parentNode.replaceChild(newElement, element);
   });
 
+	var colorAdd = document.getElementById('colorPickerAdd').value;
+	var colorSub = document.getElementById('colorPickerSub').value;
   // Retorna o HTML corrigido
-	const estilo = '\n<style> .deletado { background: #9ac775; text-decoration: line-through; } .inserido { background: #f56666; text-decoration: underline; } </style>\n';
+	const estilo = '\n<style> .deletado { color:'+colorSub+'; text-decoration: line-through; } .inserido { color:'+colorAdd+'; text-decoration: underline; } </style>\n';
 	const begin = '<!DOCTYPE html>\n<html lang="pt-br">\n<head>\n' +
         '<meta charset="UTF-8">\n<title>Resultado da comparação</title>\n' +
         '</head>\n<body><H1>Abra este arquivo no LibreOffice Writer para conseguir copiar e colar o conteúdo nos sistemas do Compras.gov.br sem perda de formatação (testado na versão 7.5.0.3)</H1>\n<p>\n';
@@ -169,7 +177,7 @@ Se a fase de cálculo de diferenças levar mais tempo que isso, então o cálcul
 
 <H3>Modificar as cores:</H3>
 <P>Escolha a cor para marcar todo o conteúdo <strong>adicionado</strong>: <input type="color" id="colorPickerAdd" value="#f56666" onchange="changeColorAdd()"></P>
-<P>Escolha a cor para marcar todo o conteúdo <strong>removido ou substituído</strong>: <input type="color" id="colorPickerSub" value="#9ac775" onchange="changeColorSub()"></P>
+<P>Escolha a cor para marcar todo o conteúdo <strong>removido ou substituído</strong>: <input type="color" id="colorPickerSub" value="#000000" onchange="changeColorSub()"></P>
 
 <P><INPUT TYPE="button" onClick="launch()" VALUE="Fazer comparação"> 
 <INPUT TYPE="button" onClick="downloadHtml()" VALUE="Exportar resultado como HTML"></P>
