@@ -66,7 +66,7 @@ function changeColorAdd() {
 }
 
 function downloadHtml() {
-  var blob = new Blob([window.diffResult], {type: 'text/html'});
+  var blob = new Blob([convertHtml(window.diffResult)], {type: 'text/html'});
   var fileName = prompt("Digite o nome do arquivo:");
   if (fileName) {
     var link = document.createElement('a');
@@ -76,6 +76,48 @@ function downloadHtml() {
     URL.revokeObjectURL(link.href);
   }
 }
+
+
+function addStyles() {
+    var style = document.createElement('style');
+    style.innerHTML = `
+    .deletado {
+        background: #9ac775;
+        text-decoration: line-through;
+    }
+    .inserido {
+        background: #f56666;
+        text-decoration: underline;
+    }`;
+    document.head.appendChild(style);
+}
+
+function convertHtml(originalHtml) {
+  // Cria um novo objeto DOM a partir da string HTML
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(originalHtml, 'text/html');
+
+  // Seleciona todos os elementos 'del' e 'ins' e adiciona as classes CSS apropriadas
+  const elements = doc.querySelectorAll('del, ins');
+  elements.forEach(element => {
+    const newElement = document.createElement('span');
+    newElement.className = element.tagName.toLowerCase() === 'del' ? 'deletado' : 'inserido';
+    newElement.innerHTML = element.innerHTML;
+
+    // Substitui o elemento antigo pelo novo no DOM
+    element.parentNode.replaceChild(newElement, element);
+  });
+
+  // Retorna o HTML corrigido
+	const estilo = '\n<style> .deletado { background: #9ac775; text-decoration: line-through; } .inserido { background: #f56666; text-decoration: underline; } </style>\n';
+	const begin = '<!DOCTYPE html>\n<html lang="pt-br">\n<head>\n' +
+        '<meta charset="UTF-8">\n<title>Resultado da comparação</title>\n' +
+        '</head>\n<body><H1>Abra este arquivo no LibreOffice Writer para conseguir copiar e colar o conteúdo nos sistemas do Compras.gov.br sem perda de formatação (testado na versão 7.5.0.3)</H1>\n<p>\n';
+	const end = '\n</p>\n</body>\n</html>';
+    
+	return begin + estilo + doc.body.innerHTML + end;
+}
+
 </SCRIPT>
 
 <FORM action="#" onsubmit="return false">
