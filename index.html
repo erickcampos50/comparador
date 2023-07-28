@@ -81,14 +81,20 @@ function downloadHtml() {
 <FORM action="#" onsubmit="return false">
 <TABLE WIDTH="100%"><TR>
   <TD WIDTH="50%">
-<H3>Versão do Texto 1:</H3>
-<TEXTAREA ID="text1" STYLE="width: 100%" ROWS=10>Sou o modelo perfeito de um moderno Major-General,
+<H3>Texto 1 (original da AGU):</H3>
+<TEXTAREA ID="text1" STYLE="width: 100%" ROWS=10>Este é um exemplo de texto, cole aqui a versão do Termo de Referência, Contrato, 
+Edital, etc. que você deseja usar como base para comparação. 
+Estes arquivos estão geralmente em https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/licitacoesecontratos
+Segue um texto para testes:
+"Sou o modelo perfeito de um moderno compêndio,
 Tenho informações vegetais, animais e minerais,
 Conheço os reis da Inglaterra, e cito as lutas históricas,
-De Maratona a Waterloo, em ordem categórica.</TEXTAREA></TD>
+De Maratona a Waterloo, em ordem categórica."</TEXTAREA></TD>
   <TD WIDTH="50%">
-<H3>Versão do Texto 2:</H3>
-<TEXTAREA ID="text2" STYLE="width: 100%" ROWS=10>Sou o modelo perfeito de um indivíduo de desenho animado,
+<H3>Texto 2 (editado por você):</H3>
+<TEXTAREA ID="text2" STYLE="width: 100%" ROWS=10>Este é outro exemplo de texto, cole aqui a sua versão do Termo de Referência, Contrato, Edital, etc. 
+Segue um texto para testes:
+Sou o modelo perfeito de um indivíduo de desenho animado,
 Minha animação é cômica, incomum e caprichosa,
 Sou muito bom em piadas engraçadas, li teoria cômica,
 De trocadilhos maldosos e piadas estúpidas a bigornas que caem na sua cabeça.</TEXTAREA></TD>
@@ -105,7 +111,7 @@ As opções abaixo permitem um ajuste fino do webapp para que o resultado atinja
 coincidentais.</DD>
 <DT><INPUT TYPE="radio" NAME="cleanup" ID="efficiency">
 <LABEL FOR="efficiency">Limpeza de Eficiência</LABEL>,
-custo de edição: <INPUT TYPE="text" SIZE=3 MAXLENGTH=5 VALUE="4" ID="editcost">
+defina o nível: <INPUT TYPE="text" SIZE=3 MAXLENGTH=5 VALUE="4" ID="editcost">
 <DD>Aumenta a eficiência computacional ao remover curtas coincidências que não valem
 o overhead. Quanto maior o custo de edição, mais agressiva a limpeza.</DD>
 <DT><INPUT TYPE="radio" NAME="cleanup" ID="raw">
