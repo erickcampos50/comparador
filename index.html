@@ -50,10 +50,14 @@ function launch() {
   
   
   
-  document.getElementById('outputdiv').innerHTML = ds + '<BR>Tempo: ' + (ms_end - ms_start) / 1000 + 's';
+  document.getElementById('outputdiv').innerHTML = ds + '<BR><P style="background:#e6ffe6;">Tempo de processamento da comparação: ' + (ms_end - ms_start) / 1000 + 's </P>';
 
+  generateTable(ds)
+  
   // Salva o resultado em uma variável global para uso posterior.
   window.diffResult = ds;
+  
+  
 }
 
 // Adiciona uma nova função para alterar a cor de fundo das tags ins e del.
@@ -72,8 +76,15 @@ function changeColorAdd() {
 }
 
 function downloadHtml() {
+  // Cria uma nova data e formata como uma string no formato 'yyyy-mm-dd_hh-mm-ss'
+  var now = new Date();
+  var formattedDate = now.getFullYear() + '-' + (now.getMonth() + 1).toString().padStart(2, '0') + '-' +
+    now.getDate().toString().padStart(2, '0') + '_' + now.getHours().toString().padStart(2, '0') + '-' +
+    now.getMinutes().toString().padStart(2, '0') + '-' + now.getSeconds().toString().padStart(2, '0');
+
   var blob = new Blob([convertHtml(window.diffResult)], {type: 'text/html'});
-  var fileName = prompt("Digite o nome do arquivo:");
+  // Define "Comparacao_" + a data atual formatada como o valor padrão para o nome do arquivo
+  var fileName = prompt("Digite o nome do arquivo:", "Comparacao_" + formattedDate);
   if (fileName) {
     var link = document.createElement('a');
     link.href = URL.createObjectURL(blob);
@@ -82,6 +93,8 @@ function downloadHtml() {
     URL.revokeObjectURL(link.href);
   }
 }
+
+
 
 
 function addStyles() {
@@ -114,17 +127,134 @@ function convertHtml(originalHtml) {
     element.parentNode.replaceChild(newElement, element);
   });
 
-	var colorAdd = document.getElementById('colorPickerAdd').value;
-	var colorSub = document.getElementById('colorPickerSub').value;
+  var colorAdd = document.getElementById('colorPickerAdd').value;
+  var colorSub = document.getElementById('colorPickerSub').value;
+
   // Retorna o HTML corrigido
-	const estilo = '\n<style> .deletado { color:'+colorSub+'; text-decoration: line-through; } .inserido { color:'+colorAdd+'; text-decoration: underline; } </style>\n';
-	const begin = '<!DOCTYPE html>\n<html lang="pt-br">\n<head>\n' +
+  const estilo = '\n<style> .deletado { color:'+colorSub+'; text-decoration: line-through; } .inserido { color:'+colorAdd+'; text-decoration: underline; } .caixa-colorida { background-color: #f5f5f5; padding: 10px; border-radius: 10px; } </style>\n';
+  const begin = '<!DOCTYPE html>\n<html lang="pt-br">\n<head>\n' +
         '<meta charset="UTF-8">\n<title>Resultado da comparação</title>\n' +
-        '</head>\n<body><H1>Abra este arquivo no LibreOffice Writer para conseguir copiar e colar o conteúdo nos sistemas do Compras.gov.br sem perda de formatação (testado na versão 7.5.0.3)</H1>\n<p>\n';
-	const end = '\n</p>\n</body>\n</html>';
+        '</head>\n<body><div class="caixa-colorida"><H3>Abra este arquivo no LibreOffice Writer para conseguir copiar e colar o conteúdo nos sistemas do Compras.gov.br sem perda de formatação (testado no LibreOffice 7.5.0.3)</H3></div>\n<p>\n';
+  const end = '\n</p>\n</body>\n</html>';
     
-	return begin + estilo + doc.body.innerHTML + end;
+  return begin + estilo + doc.body.innerHTML + end;
 }
+
+
+function generateTable(ds) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(ds, 'text/html');
+
+    // Seleciona todos os elementos 'del' e 'ins'
+    const elements = doc.querySelectorAll('del, ins');
+
+    // Cria a tabela
+    let tabela = '<table><thead><tr><th>Texto</th><th>Tipo de modificação</th><th>Justificativa</th></tr></thead><tbody>';
+
+    // Itera pelos elementos selecionados
+    elements.forEach(element => {
+        const tipo = element.tagName.toLowerCase() === 'del' ? 'Suprimido' : 'Adicionado';
+        tabela += `<tr><td>${element.innerHTML}</td><td>${tipo}</td><td></td></tr>`;
+    });
+
+    tabela += '</tbody></table>';
+
+    // Adiciona um estilo CSS
+    let style = `<style>
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      th, td {
+        padding: 15px;
+        border-bottom: 1px solid #ddd;
+      }
+      th {
+        background-color: #f2f2f2;
+      }
+    </style>`;
+
+    let html = `
+      <!DOCTYPE html>
+      <html>
+      <head>
+        <meta charset="UTF-8">
+        <title>Tabela de Modificações</title>
+        ${style}
+      </head>
+      <body>
+        ${tabela}
+      </body>
+      </html>`;
+
+
+	
+	
+	document.getElementById('tabelaModificacoes').innerHTML = html
+	
+}
+
+
+function exportTable(ds) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(ds, 'text/html');
+
+    // Seleciona todos os elementos 'del' e 'ins'
+    const elements = doc.querySelectorAll('del, ins');
+
+    // Cria a tabela
+    let tabela = '<table><thead><tr><th>Texto</th><th>Tipo de modificação</th><th>Justificativa</th></tr></thead><tbody>';
+
+    // Itera pelos elementos selecionados
+    elements.forEach(element => {
+        const tipo = element.tagName.toLowerCase() === 'del' ? 'Suprimido' : 'Adicionado';
+        tabela += `<tr><td>${element.innerHTML}</td><td>${tipo}</td><td></td></tr>`;
+    });
+
+    tabela += '</tbody></table>';
+
+    // Adiciona um estilo CSS
+    let style = `<style>
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      th, td {
+        padding: 15px;
+        border-bottom: 1px solid #ddd;
+      }
+      th {
+        background-color: #f2f2f2;
+      }
+    </style>`;
+
+    let html = `
+      <!DOCTYPE html>
+      <html>
+      <head>
+        <meta charset="UTF-8">
+        <title>Tabela de Modificações</title>
+        ${style}
+      </head>
+      <body>
+        ${tabela}
+      </body>
+      </html>`;
+
+    // Gera o arquivo HTML
+    const blob = new Blob([html], {type: 'text/html'});
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(blob);
+    link.download = 'tabela.html';
+    link.click();
+    URL.revokeObjectURL(link.href);
+	
+	
+
+}
+
+
+
 
 </SCRIPT>
 
@@ -161,16 +291,15 @@ As opções abaixo permitem um ajuste fino do webapp para que o resultado atinja
 coincidentais.</DD>
 <DT><INPUT TYPE="radio" NAME="cleanup" ID="efficiency">
 <LABEL FOR="efficiency">Limpeza de Eficiência</LABEL>,
-defina o nível: <INPUT TYPE="text" SIZE=3 MAXLENGTH=5 VALUE="4" ID="editcost">
-<DD>Aumenta a eficiência computacional ao remover curtas coincidências que não valem
-o overhead. Quanto maior o custo de edição, mais agressiva a limpeza.</DD>
+defina o nível: <INPUT TYPE="text" SIZE=3 MAXLENGTH=5 VALUE="10" ID="editcost">
+<DD>Aumenta a eficiência computacional ao remover coincidências curtas que não justificam o tempo de processamento. Quanto maior o custo de edição, mais agressiva a limpeza.</DD>
 <DT><INPUT TYPE="radio" NAME="cleanup" ID="raw">
 <LABEL FOR="raw">Sem Limpeza</LABEL></DT>
 <DD>Exibe a comparação sem modificações (saída bruta).</DD>
 </DL>
 
 <H3>Tempo limite de processamento da comparação:</H3>
-<P><INPUT TYPE="text" SIZE=3 MAXLENGTH=5 VALUE="1" ID="timeout"> segundos<BR>
+<P><INPUT TYPE="text" SIZE=3 MAXLENGTH=5 VALUE="2" ID="timeout"> segundos<BR>
 Se a fase de cálculo de diferenças levar mais tempo que isso, então o cálculo
 é interrompido e a melhor solução até o momento é retornada. Este recurso é útil para comparações que estejam travando. Defina um tempo limite de '0' permite o melhor resultado possível independente do tempo.</P>
 
@@ -179,10 +308,17 @@ Se a fase de cálculo de diferenças levar mais tempo que isso, então o cálcul
 <P>Escolha a cor para marcar todo o conteúdo <strong>adicionado</strong>: <input type="color" id="colorPickerAdd" value="#f56666" onchange="changeColorAdd()"></P>
 <P>Escolha a cor para marcar todo o conteúdo <strong>removido ou substituído</strong>: <input type="color" id="colorPickerSub" value="#000000" onchange="changeColorSub()"></P>
 
-<P><INPUT TYPE="button" onClick="launch()" VALUE="Fazer comparação"> 
-<INPUT TYPE="button" onClick="downloadHtml()" VALUE="Exportar resultado como HTML"></P>
+<P><INPUT TYPE="button" onClick="launch()" VALUE="Gerar comparação e tabela com modificações"></P>
+<P style="background:#e6ffe6;">Exporte o resultado em HTML e abra com o LibreOffice Writer caso o conteúdo esteja perdendo formatação ao colar no Compras.gov.br
+</P>
+
+<P><INPUT TYPE="button" onClick="downloadHtml()" VALUE="Exportar resultado como HTML">
+<INPUT TYPE="button" onClick="exportTable(window.diffResult)" VALUE="Exportar tabela com modificações como HTML">
+</P>
 
 <DIV ID="outputdiv"></DIV>
+<HR>
+<DIV ID="tabelaModificacoes"></DIV>
 
 </FORM>
 
