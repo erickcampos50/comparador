@@ -1,9 +1,13 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <HTML>
+
 <HEAD>
   <TITLE>Comparador de versões de documentos</TITLE>
+  <!-- Include Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <SCRIPT SRC="https://neil.fraser.name/software/diff_match_patch/javascript/diff_match_patch.js"></SCRIPT>
 </HEAD>
+
 
 <SCRIPT>
 var dmp = new diff_match_patch();
@@ -272,25 +276,25 @@ function loadReferenceFile() {
 
 </SCRIPT>
 
-
 <BODY>
-<H1>Comparador de versões de documentos para submissão à AGU</H1>
+  <div class="container mt-5">
+    <H1>Comparador de versões de documentos para submissão à AGU</H1>
 
-<P>Diante da determinação de sinalização visual de todas as alterações em documentos licitatórios submetidos à AGU (Termo de referência, Contrato, Edital, etc.), surgiu a necessidade de encontrar um recurso simples e flexível para automatizar a nova atividade (que pode ser bastante extenuante e propensa a erros). Este Webapp permite comparar as modificações entre dois textos utilizando o excelente <A HREF="https://github.com/google/diff-match-patch">Diff, Match e Patch</A>.</P>
+    <P>Diante da determinação de sinalização visual de todas as alterações em documentos licitatórios submetidos à AGU
+      (Termo de referência, Contrato, Edital, etc.), surgiu a necessidade de encontrar um recurso simples e flexível
+      para automatizar a nova atividade (que pode ser bastante extenuante e propensa a erros). Este Webapp permite
+      comparar as modificações entre dois textos utilizando o excelente <A
+        HREF="https://github.com/google/diff-match-patch">Diff, Match e Patch</A>.</P>
+
+    <FORM action="#" onsubmit="return false">
+
+      <H3>Selecionar modelo da AGU (disponíveis em 01/08/2023):</H3>
+      <select id="selectReference" class="form-control mb-3" onchange="loadReferenceFile()">
+        <option value="">Escolha uma opção...</option>
+        <option value="Lista de Verificação Compras e Serviços Sem Mão de Obra Lei 14.133.txt">Lista de Verificação
+          Compras e Serviços Sem Mão de Obra Lei 14.133</option>
 
 
-
-
- 
-
-
-
-
-<FORM action="#" onsubmit="return false">
-
-<H3>Selecionar modelo da AGU (disponíveis em 01/08/2023):</H3>
-  <select id="selectReference" onchange="loadReferenceFile()">
-    <option value="">Escolha uma opção...</option>
     <option value="Lista de Verificação Compras e Serviços Sem Mão de Obra Lei 14.133.txt">Lista de Verificação Compras e Serviços Sem Mão de Obra Lei 14.133</option>
     <option value="Modelo de Contrato de Serviços Com Mão de Obra Lei 14.133.txt">Modelo de Contrato de Serviços Com Mão de Obra Lei 14.133</option>
     <option value="Modelo de Contrato Pregão Compras Lei 14.133.txt">Modelo de Contrato Pregão Compras Lei 14.133</option>
@@ -308,31 +312,36 @@ function loadReferenceFile() {
   </select>
 
 
-<TABLE WIDTH="100%"><TR>
-  <TD WIDTH="50%">
-<H3>Texto 1 (original da AGU):</H3>
-<TEXTAREA ID="text1" STYLE="width: 100%" ROWS=10>Este é um exemplo de texto, cole aqui a versão do Termo de Referência, Contrato, 
-Edital, etc. que você deseja usar como base para comparação. 
-Estes arquivos estão geralmente em https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/licitacoesecontratos
+
+    <div class="row">
+        <div class="col-md-6">
+          <H3>Texto 1 (original da AGU):</H3>
+          <TEXTAREA ID="text1" CLASS="form-control" ROWS=10>Este é um exemplo de texto, cole aqui a versão do Termo de
+Referência, Contrato, Edital, etc. que você deseja usar como base para comparação. Estes arquivos estão geralmente em https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/licitacoesecontratos
 Segue um texto para testes:
 "Sou o modelo perfeito de um moderno compêndio,
 Tenho informações vegetais, animais e minerais,
 Conheço os reis da Inglaterra, e cito as lutas históricas,
-De Maratona a Waterloo, em ordem categórica."</TEXTAREA></TD>
-  <TD WIDTH="50%">
-<H3>Texto 2 (editado por você):</H3>
-<TEXTAREA ID="text2" STYLE="width: 100%" ROWS=10>Este é outro exemplo de texto, cole aqui a sua versão do Termo de Referência, Contrato, Edital, etc. 
-Segue um texto para testes:
+De Maratona a Waterloo, em ordem categórica."</TEXTAREA>
+        </div>
+        <div class="col-md-6">
+          <H3>Texto 2 (editado por você):</H3>
+          <TEXTAREA ID="text2" CLASS="form-control" ROWS=10>Este é outro exemplo de texto, cole aqui a sua versão do
+Termo de Referência, Contrato, Edital, etc. Segue um texto para testes:
 Sou o modelo perfeito de um indivíduo de desenho animado,
 Minha animação é cômica, incomum e caprichosa,
 Sou muito bom em piadas engraçadas, li teoria cômica,
-De trocadilhos maldosos e piadas estúpidas a bigornas que caem na sua cabeça.</TEXTAREA></TD>
-</TR></TABLE>
+De trocadilhos maldosos e piadas estúpidas a bigornas que caem na sua cabeça.</TEXTAREA>
+        </div>
+      </div>
 
-<H3>Ajustes no tipo e resultados das comparações</H3>
-<P>
-Esta implementação funciona caracter por caracter, o que é ideal para identificar mudanças sutis nos textos, no entanto o resultado pode conter "exageros", ou seja, pequenas coincidências irrelevantes que complicam a leitura.
-As opções abaixo permitem um ajuste fino do webapp para que o resultado atinja as expectativas de legibilidade.</P>
+      <H3>Ajustes no tipo e resultados das comparações</H3>
+      <P>
+        Esta implementação funciona caracter por caracter, o que é ideal para identificar mudanças sutis nos textos, no
+        entanto o resultado pode conter "exageros", ou seja, pequenas coincidências irrelevantes que complicam a leitura.
+      </P>
+
+
 <DL>
 <DT><INPUT TYPE="radio" NAME="cleanup" ID="semantic" CHECKED>
 <LABEL FOR="semantic">Limpeza Semântica</LABEL></DT>
@@ -365,17 +374,32 @@ Se a fase de cálculo de diferenças levar mais tempo que isso, então o cálcul
 <INPUT TYPE="button" onClick="exportTable(window.diffResult)" VALUE="Exportar tabela com modificações como HTML">
 </P>
 
-<DIV ID="outputdiv"></DIV>
-<HR>
-<DIV ID="tabelaModificacoes"></DIV>
+    </FORM>
 
-</FORM>
+    <div id="outputdiv"></div>
+    <hr>
+    <div id="tabelaModificacoes"></div>
+
+  </div>
+    <!-- Credits section -->
+    <div class="mt-5 container ">
+      <h3>Créditos:</h3>
+      <p>
+        Esta aplicação foi adaptada por <strong href="erick.campos@ufjf.br">Erick C. Campos</strong> para Universidade Federal de Juiz de Fora - Campus GV utilizando a excelente biblioteca <a href="https://github.com/google/diff-match-patch">Diff, Match e Patch</a> desenvolvida por Neil Fraser.
+      </p>
+      <p>
+        
+      </p>
+    </div>
+
+  </div>
 
 
 
-
-<HR>
-Código adaptado por Erick C. Campos a partir do excelente <A HREF="https://github.com/google/diff-match-patch">Diff, Match e Patch</A>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 </BODY>
+
 </HTML>
