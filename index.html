@@ -5,15 +5,6 @@
   <SCRIPT SRC="https://neil.fraser.name/software/diff_match_patch/javascript/diff_match_patch.js"></SCRIPT>
 </HEAD>
 
-<BODY>
-<H1>Comparador de versões de documentos para submissão à AGU</H1>
-
-<P>Diante da determinação de sinalização visual de todas as alterações em documentos licitatórios submetidos à AGU (Termo de referência, Contrato, Edital, etc.), surgiu a necessidade de encontrar um recurso simples e flexível para automatizar a nova atividade (que pode ser bastante extenuante e propensa a erros). Este Webapp permite comparar as modificações entre dois textos utilizando o excelente <A HREF="https://github.com/google/diff-match-patch">Diff, Match e Patch</A>.</P>
-
-
-
-
-
 <SCRIPT>
 var dmp = new diff_match_patch();
 
@@ -255,10 +246,68 @@ function exportTable(ds) {
 
 
 
+function loadReferenceFile() {
+  var selectedFile = document.getElementById('selectReference').value;
+  if (!selectedFile) return; // Se não houver arquivo selecionado, simplesmente retorne
+  
+   var url = "https://raw.githubusercontent.com/erickcampos50/comparador/main/referencias/" + selectedFile;
+   
+   
+  // Realizar uma solicitação HTTP para obter o conteúdo do arquivo
+  fetch(url)
+    .then(response => response.arrayBuffer())
+    .then(arrayBuffer => {
+      // Usar o TextDecoder para interpretar corretamente os caracteres latinos
+      var decoder = new TextDecoder('iso-8859-1');
+      var text = decoder.decode(arrayBuffer);
+      
+      // Inserir o conteúdo do arquivo no elemento "text1"
+      document.getElementById('text1').value = text;
+    })
+    .catch(error => {
+      alert('Erro ao carregar o arquivo: ' + error);
+    });
+}
+
 
 </SCRIPT>
 
+
+<BODY>
+<H1>Comparador de versões de documentos para submissão à AGU</H1>
+
+<P>Diante da determinação de sinalização visual de todas as alterações em documentos licitatórios submetidos à AGU (Termo de referência, Contrato, Edital, etc.), surgiu a necessidade de encontrar um recurso simples e flexível para automatizar a nova atividade (que pode ser bastante extenuante e propensa a erros). Este Webapp permite comparar as modificações entre dois textos utilizando o excelente <A HREF="https://github.com/google/diff-match-patch">Diff, Match e Patch</A>.</P>
+
+
+
+
+ 
+
+
+
+
 <FORM action="#" onsubmit="return false">
+
+<H3>Selecionar modelo da AGU (disponíveis em 01/08/2023):</H3>
+  <select id="selectReference" onchange="loadReferenceFile()">
+    <option value="">Escolha uma opção...</option>
+    <option value="Lista de Verificação Compras e Serviços Sem Mão de Obra Lei 14.133.txt">Lista de Verificação Compras e Serviços Sem Mão de Obra Lei 14.133</option>
+    <option value="Modelo de Contrato de Serviços Com Mão de Obra Lei 14.133.txt">Modelo de Contrato de Serviços Com Mão de Obra Lei 14.133</option>
+    <option value="Modelo de Contrato Pregão Compras Lei 14.133.txt">Modelo de Contrato Pregão Compras Lei 14.133</option>
+    <option value="Modelo de Contrato Serviços Comuns de Engenharia Lei 14.133.txt">Modelo de Contrato Serviços Comuns de Engenharia Lei 14.133</option>
+    <option value="Modelo de Contrato Serviços Sem Mão de Obra Lei 14.133.txt">Modelo de Contrato Serviços Sem Mão de Obra Lei 14.133</option>
+    <option value="Modelo de Edital de Concorrência Lei 14.133 .maio23.txt">Modelo de Edital de Concorrência Lei 14.133 .maio23</option>
+    <option value="Modelo e Ata de Registro de Preços Lei 14.133 maio23.txt">Modelo e Ata de Registro de Preços Lei 14.133 maio23</option>
+    <option value="Modelo Edital Pregão SRP Lei 14.133.txt">Modelo Edital Pregão SRP Lei 14.133</option>
+    <option value="Parecer Parametrizado Compras e Serviços Sem Mão de Obra Lei 14.133.txt">Parecer Parametrizado Compras e Serviços Sem Mão de Obra Lei 14.133</option>
+    <option value="Termo de Justificativas Técnicas Relevantes obras e serviços de engenharia (ATUALIZADO SET-2021).txt">Termo de Justificativas Técnicas Relevantes obras e serviços de engenharia (ATUALIZADO SET-2021)</option>
+    <option value="Termo de Referência Compras Lei 14.133.txt">Termo de Referência Compras Lei 14.133</option>
+    <option value="Termo de Referência Pregão Engenharia Lei 14.133.txt">Termo de Referência Pregão Engenharia Lei 14.133</option>
+    <option value="Termo de Referência Serviços Com Mão de Obra Lei 14.133.txt">Termo de Referência Serviços Com Mão de Obra Lei 14.133</option>
+    <option value="Termo de Referência Serviços Sem Mão de Obra Lei 14.133.txt">Termo de Referência Serviços Sem Mão de Obra Lei 14.133</option>
+  </select>
+
+
 <TABLE WIDTH="100%"><TR>
   <TD WIDTH="50%">
 <H3>Texto 1 (original da AGU):</H3>
