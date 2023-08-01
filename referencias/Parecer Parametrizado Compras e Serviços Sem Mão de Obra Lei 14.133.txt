@@ -1,0 +1,611 @@
+ORIENTAÇÕES PARA USO DO PARECER PARAMETRIZADO
+Este parecer parametrizado é uma sugestão de roteiro para análise jurídica de PREGÃO ELETRÔNICO PARA COMPRAS E SERVIÇOS SEM MÃO DE OBRA EM REGIME DE DEDICAÇÃO EXCLUSIVA.
+Objetiva-se celeridade e uniformização das manifestações sobre a matéria, assim como maior segurança jurídica à Administração Pública.
+A utilização do parecer parametrizado não dispensa a necessidade de o parecerista verificar as peculiaridades do caso concreto. O parecer parametrizado possui caráter geral, então não abrange, adequadamente, questões específicas, as quais precisam ser abordadas, na análise individual do processo.
+Para o uso deste parecer, deverão ser observadas as seguintes orientações:
+a) As Notas Explicativas (sempre destacadas em outra cor de fundo), se houver, deverão ser suprimidas, inclusive este tópico introdutório, ao finalizar o parecer;
+b) O texto redigido na cor preta correspondente à estrutura permanente do parecer. O texto escrito na cor vermelha demanda a avaliação e adaptação pelo parecerista, diante das peculiaridades do caso concreto em exame;
+c) Os trechos destacados em cor azul indicam a existência de opções alternativas, a depender da análise do caso concreto. As opções são excludentes, competindo ao parecerista excluir aquela(s) não contemplada(s);
+d) É preciso incluir outros tópicos e parágrafos, a depender do conteúdo dos autos. Este modelo é a base para que o órgão consultivo, no exercício de suas atribuições, elabore manifestações jurídicas uniformizadas. O caso concreto, contudo, pode demandar outras discussões;
+e) Um dos escopos deste documento é tornar os pareceres objetivos e mais concisos. Assim, a primeiro opção invariavelmente é de um parágrafo mais curto para o caso de as orientações jurídicas já estarem contempladas no processo;
+f) Sugere-se que cada orientação existente no corpo do parecer que demande uma atuação da autoridade tenha o respectivo parágrafo destacado e expressamente mencionado no capítulo final da conclusão;
+g) O presente modelo deverá ser constantemente aperfeiçoado pelos órgãos de assessoramento jurídico, estando aberta a sugestões;
+Este modelo foi aprovado em 19/12/2022 em reunião da CNMLC
+PARECER Nº //
+PROCESSO Nº:	
+INTERESSADO:	
+ASSUNTO:	
+VALOR:	
+DIREITO ADMINISTRATIVO. LICITAÇÕES E CONTRATOS. PREGÃO ELETRÔNICO. AQUISIÇÃO DE BENS COMUNS. LEGISLAÇÃO APLICÁVEL: LEI Nº 14.133/2021, DECRETO Nº 10.818/2021, PORTARIA SEGES/ME Nº 8.678/2021, INSTRUÇÃO NORMATIVA SEGES/ME Nº 65/2021, INSTRUÇÃO NORMATIVA SEGES/ME Nº 67/2021, DECRETO Nº 10.947/2022, INSTRUÇÃO NORMATIVA SEGES Nº 58/2022, PORTARIA ME Nº 7.828/2022, DECRETO Nº 11.246/2022. INSTRUÇÃO NORMATIVA SEGES/ME Nº 81/2022.  ANÁLISE JURÍDICA DO PROCEDIMENTO E DAS MINUTAS. RESSALVAS E/OU RECOMENDAÇÕES.
+RELATÓRIO
+Trata o presente expediente de processo administrativo que tem por finalidade a aquisição de _______________ (especificar o objeto), mediante licitação pública, na modalidade pregão, em sua forma eletrônica, , conforme justificativa e especificações constantes do Termo de Referência e seus anexos.
+    2. Os seguintes documentos são relevantes para a análise jurídica:
+    I) (...);
+    II) (...);
+    III) (...).
+    3. É a síntese do necessário.
+APRECIAÇÃO JURÍDICA
+Finalidade e abrangência do parecer jurídico
+    4. A presente manifestação jurídica tem o escopo de assistir a autoridade assessorada no controle prévio de legalidade, conforme estabelece o artigo 53, I e II, da Lei nº 14.133, de 2021 (Nova Lei de Licitações e Contratos – NLLC):
+Art. 53. Ao final da fase preparatória, o processo licitatório seguirá para o órgão de assessoramento jurídico da Administração, que realizará controle prévio de legalidade mediante análise jurídica da contratação.
+§ 1º Na elaboração do parecer jurídico, o órgão de assessoramento jurídico da Administração deverá:
+I - apreciar o processo licitatório conforme critérios objetivos prévios de atribuição de prioridade;
+II - redigir sua manifestação em linguagem simples e compreensível e de forma clara e objetiva, com apreciação de todos os elementos indispensáveis à contratação e com exposição dos pressupostos de fato e de direito levados em consideração na análise jurídica;
+    5. Como se pode observar do dispositivo legal supra, o controle prévio de legalidade se dá em função do exercício da competência da análise jurídica da futura contratação, não abrangendo, portanto, os demais aspectos envolvidos, como os de natureza técnica, mercadológica ou de conveniência e oportunidade. Em relação a esses, eventuais apontamentos decorrem da imbricação com questões jurídicas, na forma do Enunciado BPC nº 07, do Manual de Boas Práticas Consultivas da Advocacia-Geral da União:
+Enunciado BPC nº 7
+A manifestação consultiva que adentrar questão jurídica com potencial de significativo reflexo em aspecto técnico deve conter justificativa da necessidade de fazê-lo, evitando-se posicionamentos conclusivos sobre temas não jurídicos, tais como os técnicos, administrativos ou de conveniência ou oportunidade, podendo-se, porém, sobre estes emitir opinião ou formular recomendações, desde que enfatizando o caráter discricionário de seu acatamento. 
+    6. De fato, presume-se que as especificações técnicas contidas no presente processo, inclusive quanto ao detalhamento do objeto da contratação, suas características, requisitos e avaliação do preço estimado, tenham sido regularmente determinadas pelo setor competente do órgão, com base em parâmetros técnicos objetivos, para a melhor consecução do interesse público. O mesmo se pressupõe em relação ao exercício da competência discricionária pelo órgão assessorado, cujas decisões devem ser motivadas nos autos.
+    7. De outro lado, cabe esclarecer que não é papel do órgão de assessoramento jurídico exercer a auditoria quanto à competência de cada agente público para a prática de atos administrativos, nem de atos já praticados. Incumbe, isto sim, a cada um destes observar se os seus atos estão dentro do seu espectro de competências..
+    8. Finalmente, deve-se salientar que determinadas observações são feitas sem caráter vinculativo, mas em prol da segurança da própria autoridade assessorada a quem incumbe, dentro da margem de discricionariedade que lhe é conferida pela lei, avaliar e acatar, ou não, tais ponderações. Não obstante, as questões relacionadas à legalidade serão apontadas para fins de sua correção. O seguimento do processo sem a observância destes apontamentos será de responsabilidade exclusiva da Administração.
+Limites e instâncias de governança
+    9. No presente caso, o valor da contratação é de R$ XXXXXX e o órgão assessorado declarou que o serviço contratado constitui atividade de custeio.
+    10. Por sua vez, o(a) [Ordenador de Despesas] autorizou a contratação, o que atende ao disposto no art. 3º do Decreto nº 10.193, de 2019.
+    11. Reiteramos que não é papel do órgão de assessoramento jurídico exercer a auditoria quanto à competência de cada agente público para a prática de atos administrativos.
+OU
+    12. No presente caso, o órgão assessorado declarou que o objeto licitado não constitui atividade de custeio, o que afasta a aplicação do Decreto nº 10.193, de 27 de dezembro de 2019, que estabeleceu limites e instâncias de governança para a contratação de bens e serviços e para a realização de gastos com diárias e passagens no âmbito do Poder Executivo federal.
+OU
+    13. No âmbito do Poder Executivo Federal, o Decreto nº 10.193, de 27 de dezembro de 2019, "estabelece limites e instâncias de governança para a contratação de bens e serviços e para a realização de gastos com diárias e passagens no âmbito do Poder Executivo federal", com imposição de regras relativas à competência para a celebração de novos contratos de aquisição, nos termos de seu artigo 3º.
+    14. A Portaria ME nº 7.828, de 30 de agosto de 2022, estabelece normas complementares para o cumprimento do Decreto nº 10.193, de 2019, incumbindo ao órgão contratante ficar atento à eventual diploma que venha a estabelecer determinações complementares ao Decreto nº 10.193, de 2019, devendo-se observar os preceitos dos atos normativos regulamentares ainda vigentes.
+    15. No presente caso, não consta a autorização a que se refere o art. 3º do Decreto nº 10.193, de 27 de dezembro de 2019. Por isso, recomendamos ao órgão assessorado que declare nos autos se a contratação constitui atividade de custeio.
+    16. Em caso positivo, recomendamos que instrua os autos com a referida autorização, o que poderá ser feito até antes da assinatura do contrato.
+Avaliação de conformidade legal
+    17. No presente caso, os autos foram instruídos com lista de verificação, documento que segue o modelo elaborado pela Advocacia-Geral da União.
+OU
+    18. O art. 19 da Lei nº 14.133, de 2021, prevê que os órgãos competentes da Administração devem instituir mecanismos e ferramentas voltadas ao gerenciamento de atividades de administração de materiais, obras e serviços, conforme abaixo transcrito:
+Art. 19. Os órgãos da Administração com competências regulamentares relativas às atividades de administração de materiais, de obras e serviços e de licitações e contratos deverão:
+I - instituir instrumentos que permitam, preferencialmente, a centralização dos procedimentos de aquisição e contratação de bens e serviços;
+II - criar catálogo eletrônico de padronização de compras, serviços e obras, admitida a adoção do catálogo do Poder Executivo federal por todos os entes federativos;
+III - instituir sistema informatizado de acompanhamento de obras, inclusive com recursos de imagem e vídeo;
+IV - instituir, com auxílio dos órgãos de assessoramento jurídico e de controle interno, modelos de minutas de editais, de termos de referência, de contratos padronizados e de outros documentos, admitida a adoção das minutas do Poder Executivo federal por todos os entes federativos;
+V - promover a adoção gradativa de tecnologias e processos integrados que permitam a criação, a utilização e a atualização de modelos digitais de obras e serviços de engenharia.
+    19. Desse modo, é preciso que a fase de planejamento da contratação esteja alinhada às iniciativas mais atualizadas dos órgãos que detêm competências regulamentares. 
+    20. Nesse sentido, um instrumento importante para auxiliar a checagem desse alinhamento é a lista de verificação elaborada pela Advocacia-Geral da União.
+    21. Referidos documentos estão disponíveis no endereço https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/licitacoesecontratos/listas-de-verificacao (acesso em 04/12/2022).
+    22. No caso vertente não foi realizada a avaliação de conformidade legal com base nos elementos acima descritos, razão pela qual recomendamos ao órgão assessorado que instrua os autos com a lista de verificação.
+Desenvolvimento nacional sustentável: critérios de sustentabilidade 
+    23. As contratações governamentais devem estabelecer critérios que promovam o desenvolvimento nacional sustentável. Assim, as ações da Administração devem ser especialmente voltadas para a redução do consumo e para a aquisição preferencial de produtos inseridos no conceito de economia circular ou que representem menor impacto ambiental, a exemplo dos produtos reciclados e/ou recicláveis (arts. 5º e 11 da Lei n. 14.133, de 2021, c/c art. 7º, XI, da Lei nº 12.305, de 2010). 
+    24. No planejamento da contratação devem ser observados determinados pressupostos, entre eles a especificação do objeto de acordo com critérios de sustentabilidade, a existência de obrigações a serem cumpridas durante o fornecimento e o recolhimento dos produtos, bem como a incidência de normas especiais de comercialização ou de licenciamento de atividades (ex.: registro no Cadastro Técnico Federal - CTF), que são requisitos previstos na legislação de regência ou em leis especiais (ex.: arts. 66 e 67, IV, da Lei n. 14.133, de 2021). 
+    25. São aspectos indispensáveis do planejamento da contratação a abordagem econômica, social, ambiental e cultural das ações de sustentabilidade. O órgão assessorado deve: a) avaliar se há incidência de critérios de sustentabilidade no caso concreto; b) indicar as dimensões dessa incidência; e c) definir condições para sua aplicação. É de fundamental importância consultar o Guia Nacional de Contratações Sustentáveis/AGU, no qual podem ser extraídos subsídios orientadores das ações de sustentabilidade. 
+    26. Na escolha de produtos, nos termos do inciso XI do art. 7º da Lei n. 12.305, de 2010, deve-se priorizar: produtos que podem gerar menos perdas; ser recicláveis; ser mais duráveis; que possuam menos substâncias tóxicas ou prejudiciais à saúde; e que consumam menos recursos naturais na sua produção. 
+    27. Na especificação técnica do objeto a ser adquirido, recomendamos, como subsídio, a utilização do Catálogo de Materiais Sustentáveis do Ministério da Economia. O CATMAT Sustentável permite identificar itens de materiais sustentáveis que poderão ser adquiridos em substituição a itens similares. 
+    28. Acresça-se que é obrigação do gestor público, antes do encaminhamento do processo administrativo para parecer jurídico, a consulta e a inserção nas minutas correspondentes das previsões legais constantes no Guia Nacional de Contratações Sustentáveis, o qual já foi citado como exemplo de boa prática administrativa pelo Tribunal de Contas da União, conforme acórdão 1056/2017-Plenário.
+    29. Registre-se que há possibilidade, mediante motivação administrativa constante do processo administrativo, de serem inseridos outros requisitos de sustentabilidade além dos legalmente, desde que observados os demais princípios licitatórios. 
+    30. Em síntese, no tocante à promoção do desenvolvimento nacional sustentável deverão ser tomados os seguintes cuidados gerais pelos gestores públicos em aquisições: 
+    a) definir os critérios sustentáveis objetivamente, e em adequação ao objeto da contratação pretendida, como especificação técnica do objeto, obrigação da contratada ou requisito previsto em lei especial
+b) verificar se os critérios sustentáveis especificados preservam o caráter competitivo do certame; e, 
+c) verificar o alinhamento da contratação com o Plano de Gestão de Logística Sustentável. 
+    31. Cabe ao órgão assessorado a verificação técnica dos critérios de sustentabilidade aplicáveis aos bens a serem adquiridos e serviços a serem contratados. Se a Administração entender que a contratação não se sujeita aos critérios de sustentabilidade ou que as especificações de sustentabilidade restringem indevidamente a competição em dado mercado, deverá apresentar a devida justificativa.
+    32. Neste sentido, o PARECER 01/2021/CNS/CGU/AGU, aprovado pela Consultoria-Geral da União (DESPACHO n. 00525/2021/GAB/CGU/AGU):
+I. Os órgãos e entidades que compõem a administração pública são obrigados a adotar critérios e práticas de sustentabilidade socioambiental e de acessibilidade nas contratações públicas, nas fases de planejamento, seleção de fornecedor, execução contratual, fiscalização e na gestão dos resíduos sólidos;
+II. A impossibilidade de adoção de tais critérios e práticas de sustentabilidade nas contratações públicas deverá ser justificada pelo gestor competente nos autos do processo administrativo, com a indicação das pertinentes razões de fato e/ou direito;
+III. Recomenda-se aos agentes da administração pública federal encarregados de realizar contratações públicas, que, no exercício de suas atribuições funcionais, consultem o Guia Nacional de Contratações Sustentáveis da Advocacia-Geral da União.
+
+    33. Estabelecidas estas orientações introdutórias, imprescindíveis para compreensão da amplitute do tema, segue-se detalhamento no tocante às providências em relação ao desenvolvimento sustentável no Estudo Técnico  Preliminar; na descrição da necessidade da contratação; no levantamento de mercado e a consideração da vantajosidade, na  definição do objeto, Plano Diretor de Logística Sustentável e em relação ao Termo de Referência. 
+
+Planejamento da contratação
+    34. A Lei nº 14.133, de 2021, estabeleceu que fase preparatória do processo licitatório é caracterizada pelo planejamento e deve compatibilizar-se com o plano de contratações anual de que trata o inciso VII do caput do art. 12 da referida lei e com as leis orçamentárias, bem como abordar todas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação, conforme previsto no caput do art. 18.
+    35. O artigo 18 da Lei nº 14.133, de 2021, elenca providências e documentos que devem instruir a fase de planejamento, conforme abaixo transcrito:
+Art. 18. A fase preparatória do processo licitatório é caracterizada pelo planejamento e deve compatibilizar-se com o plano de contratações anual de que trata o inciso VII do caput do art. 12 desta Lei, sempre que elaborado, e com as leis orçamentárias, bem como abordar todas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação, compreendidos:
+I - a descrição da necessidade da contratação fundamentada em estudo técnico preliminar que caracterize o interesse público envolvido;
+II - a definição do objeto para o atendimento da necessidade, por meio de termo de referência, anteprojeto, projeto básico ou projeto executivo, conforme o caso;
+III - a definição das condições de execução e pagamento, das garantias exigidas e ofertadas e das condições de recebimento;
+IV - o orçamento estimado, com as composições dos preços utilizados para sua formação;
+V - a elaboração do edital de licitação;
+VI - a elaboração de minuta de contrato, quando necessária, que constará obrigatoriamente como anexo do edital de licitação;
+VII - o regime de fornecimento de bens, de prestação de serviços ou de execução de obras e serviços de engenharia, observados os potenciais de economia de escala;
+VIII - a modalidade de licitação, o critério de julgamento, o modo de disputa e a adequação e eficiência da forma de combinação desses parâmetros, para os fins de seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, considerado todo o ciclo de vida do objeto;
+IX - a motivação circunstanciada das condições do edital, tais como justificativa de exigências de qualificação técnica, mediante indicação das parcelas de maior relevância técnica ou valor significativo do objeto, e de qualificação econômico-financeira, justificativa dos critérios de pontuação e julgamento das propostas técnicas, nas licitações com julgamento por melhor técnica ou técnica e preço, e justificativa das regras pertinentes à participação de empresas em consórcio;
+X - a análise dos riscos que possam comprometer o sucesso da licitação e a boa execução contratual;
+XI - a motivação sobre o momento da divulgação do orçamento da licitação, observado o art. 24 desta Lei.
+(grifou-se)
+    36. Referido dispositivo é complementado por seu parágrafo primeiro, que dispões sobre os elementos do Estudo Técnico Preliminar. De uma forma bem abrangente, o planejamento da contratação pressupõe que a própria necessidade administrativa seja investigada, a fim de se compreender o que fundamenta a requisição administrativa. Neste sentido, ressalte-se que a identificação da necessidade administrativa deve considerar também o desenvolvimento nacional sustentável, que é princípio e objetivo das licitações (artigo 5º e artigo 11, IV, da Lei nº 14.133, de 2021), conforme detalhamentos abaixo. Uma vez identificada a necessidade que antecede o pedido realizado, pode-se então buscar soluções disponíveis no mercado para atender referida necessidade, que inclusive podem se diferenciar do pedido inicial. Encontrada a melhor solução, caso disponível mais de uma, aí sim inicia-se a etapa de estudá-la, para o fim de definir o objeto licitatório e todos os seus contornos. Em linhas gerais, a instrução do processo licitatório deve revelar esse encadeamento lógico.
+    37. Alguns dos elementos serão abaixo examinados.
+Estudo Técnico Preliminar - ETP 
+    38. No presente caso, os servidores da área técnica e requisitante ou a equipe de planejamento da contratação elaborou(am) o estudo técnico preliminar. Apesar de se tratar de documento extremamente técnico, cuja avaliação cabe, em última instância, ao próprio órgão assistido, ele aparentemente contém as previsões necessárias, relacionadas no art. 18, §1º, da Lei nº 14.133, de 2021.
+OU
+    39. O Estudo Técnico Preliminar – ETP da contratação deve conter, de forma fundamentada, a descrição da necessidade da contratação, com especial atenção à demonstração do interesse público envolvido. Também é preciso que sejam abordadas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação.
+    40. O artigo 18, § 1º, da Lei nº 14.133, de 2021, apresenta os elementos que devem ser considerados na elaboração do ETP:
+§ 1º O estudo técnico preliminar a que se refere o inciso I do caput deste artigo deverá evidenciar o problema a ser resolvido e a sua melhor solução, de modo a permitir a avaliação da viabilidade técnica e econômica da contratação, e conterá os seguintes elementos:
+I - descrição da necessidade da contratação, considerado o problema a ser resolvido sob a perspectiva do interesse público;
+II - demonstração da previsão da contratação no plano de contratações anual, sempre que elaborado, de modo a indicar o seu alinhamento com o planejamento da Administração;
+III - requisitos da contratação;
+IV - estimativas das quantidades para a contratação, acompanhadas das memórias de cálculo e dos documentos que lhes dão suporte, que considerem interdependências com outras contratações, de modo a possibilitar economia de escala;
+V - levantamento de mercado, que consiste na análise das alternativas possíveis, e justificativa técnica e econômica da escolha do tipo de solução a contratar;
+VI - estimativa do valor da contratação, acompanhada dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte, que poderão constar de anexo classificado, se a Administração optar por preservar o seu sigilo até a conclusão da licitação;
+VII - descrição da solução como um todo, inclusive das exigências relacionadas à manutenção e à assistência técnica, quando for o caso;
+VIII - justificativas para o parcelamento ou não da contratação;
+IX - demonstrativo dos resultados pretendidos em termos de economicidade e de melhor aproveitamento dos recursos humanos, materiais e financeiros disponíveis;
+X - providências a serem adotadas pela Administração previamente à celebração do contrato, inclusive quanto à capacitação de servidores ou de empregados para fiscalização e gestão contratual;
+XI - contratações correlatas e/ou interdependentes;
+XII - descrição de possíveis impactos ambientais e respectivas medidas mitigadoras, incluídos requisitos de baixo consumo de energia e de outros recursos, bem como logística reversa para desfazimento e reciclagem de bens e refugos, quando aplicável;
+XIII - posicionamento conclusivo sobre a adequação da contratação para o atendimento da necessidade a que se destina.
+    41. É certo que o ETP deverá conter ao menos os elementos previstos nos incisos I, IV, VI, VIII e XIII, acima, conforme expressamente exigido pelo §2º da referida norma. Quando não contemplar os demais elementos previstos no art. 18, §1º, deverá a Administração apresentar as devidas justificativas. No tocante ao inciso XII, o Guia Nacional de Contratações Sustentáveis/AGU apresenta diversas orientações jurídicas, a serem consultadas e observadas sempre que incidentes ao caso concreto. 
+    42. Além das exigências da Lei n. 14.133, de 2022, deve a Administração observar as regras constantes da Instrução Normativa Seges/ME nº 58, de 8 de agosto de 2022, que dispõe sobre a elaboração dos Estudos Técnicos Preliminares - ETP, para a aquisição de bens e a contratação de serviços e obras, no âmbito da administração pública federal direta, autárquica e fundacional, e sobre o Sistema ETP digital.
+    43. No caso concreto, observa-se que a Administração não elaborou o ETP de modo a contemplar as exigências legais e normativas, sendo conveniente ressaltar que... [sugestões de tópicos abaixo]
+
+Descrição da Necessidade da contratação
+    44. A identificação da necessidade da contratação é o primeiro aspecto a ser abordado em um estudo técnico preliminar, justamente para permitir a reflexão sobre os motivos pelos quais determinada contratação foi solicitada, investigando assim qual a necessidade final a ser atendida, que pode inclusive ser distinta a depender da finalidade do órgão ou entidade, ainda que o objeto indicado pelo setor requisitante seja o mesmo.
+    45. Essa investigação inicial é expressamente demandada no art. 18, I e §1º, I da NLLC, já reproduzidos no presente parecer. Trata-se de etapa fundamental do processo, por meio da qual o problema colocado para a Administração pode vir a ser compreendido sob outra perspectiva e assim contribuir para que outras soluções se mostrem propícias a atender a demanda, quando se passar à fase de levantamento de mercado, tratada mais à frente. A clareza da necessidade administrativa é a base para possíveis inovações.
+    46. Também por meio dela é possível fazer uma reflexão para extrair quais os requisitos essenciais sem os quais a necessidade não seria atendida. Trata-se de requisitos da própria necessidade, portanto, e não de eventuais soluções a serem adotadas, até porque, nessa primeira etapa, ainda não se sabe quais as soluções disponíveis. Nesse sentido, o art. 18, §1º da Lei n. 14.133, de 2022, que estabelece os elementos do ETP, prevê os requisitos da contratação no seu inciso III, enquanto o levantamento de mercado (quando se buscam as soluções disponíveis) somente no inciso V.
+    47. Além disso, a descrição da necessidade de contratação deve conter manifestação acerca da essencialidade e interesse público da contratação, para os fins do previsto no art. 3º do Decreto nº 8.540/2015, a ser interpretado em consonância com a Lei n. 14.133, de 2022, devendo portanto ser avaliado o interesse público também na perspectiva de se haverá impacto ambiental negativo decorrente da contratação e se há opções que atendam ao princípio do desenvolvimento nacional sustentável, considerando o ciclo de vida do objeto (artigo 11, I, Lei n. 14.133, de 2021)
+    48. Feito esse registro, é certo que não cabe ao órgão jurídico adentrar ao mérito (oportunidade e conveniência) das razões do Administrador, principalmente nesse contexto em que prevalece a tecnicidade do assunto. O papel do órgão jurídico é recomendar que essa reflexão sobre a necessidade administrativa seja efetivamente realizada, orientando o órgão assistido a registrá-la nos autos, caso não o tenha sido, ou então a aperfeiçoá-la, na hipótese de ela se revelar insuficiente ou desarrazoada.
+    49. Sem prejuízo dessa constatação, observa-se que, no caso concreto, o órgão não descreveu a necessidade administrativa, sendo conveniente ressaltar que...
+
+Levantamento de Mercado
+    50. Uma vez identificada a necessidade administrativa, o próximo passo é buscar soluções que tenham o potencial de atendê-la. Não se trata, portanto, de realizar estimativa de preços, e sim estudar as práticas do mercado e de outros órgãos e entidades públicas, a fim de verificar se existe alguma outra solução para atender a necessidade administrativa ou então novas metodologias de execução/contratação que gerem ganhos de produtividade ou economia para a Administração. 
+    51. O artigo 9º, III, “a” à “d” da Instrução Normativa Seges/ME nº 58, de 8 de agosto de 2022 indica algumas opções para realizar essa busca e o art. 12 estabelece que “os órgãos e entidades deverão pesquisar, no Sistema ETP Digital, os ETP de outras unidades, como forma de identificar soluções semelhantes que possam se adequar à demanda da Administração.”
+    52. Já o art. 44 da Lei nº 14.133, de 2021, determina que a Administração promova a avaliação dos custos e benefícios das opções de compra e locação de bens, quando ambas as soluções foram viáveis, de modo a indicar a alternativa que se revelou mais vantajosa no caso concreto. Neste ponto, ressalte-se que a vantajosidade deve considerar o ciclo de vida do objeto, nos termos dos artigos 11, I e 18, VIII, da mesma lei. 
+    53. Assim, essa prospecção e avaliação deverá ser realizada, ainda que leve à conclusão de que as metodologias já tradicionalmente empregadas em contratações anteriores são as mais aptas à satisfação da necessidade administrativa. Seja qual for a solução adotada, sua escolha deve ser expressamente motivada nos autos.
+    54. Em vista do exposto, registra-se que no caso concreto, o órgão não realizou a busca por soluções de mercado, não tendo justificado, entretanto, recomendando-se que o faça, o que pode inclusive alterar o próprio objeto licitatório, em se encontrando uma solução mais adequada à necessidade administrativa.
+
+Definição do Objeto
+    55. Uma vez investigada a necessidade administrativa que origina o pedido de contratação e depois de encontrada a solução mais adequada para atendê-la, a Administração passará então a se diferenciar dos particulares em geral porque deverá então descrever referida solução, convertendo-a no objeto licitatório. A finalidade principal desta etapa é propiciar que a própria Administração incremente seus conhecimentos sobre o objeto, distinguindo suas características principais, para então, por meio da descrição, possibilitar que todos os fornecedores da solução escolhida venham a saber do interesse administrativo em uma futura contratação.
+    56. Bem por isso, o aumento do nível de detalhamento da especificação do objeto influi inversamente no universo de fornecedores aptos a atender à demanda, reduzindo-o. Consequentemente, a caracterização excessivamente pormenorizada poderá conduzir a um único ou nenhum fornecedor, ao passo que a especificação por demais genérica ou singela poderá ampliar as opções no mercado, porém para objeto cujas características não atendam plenamente às necessidades efetivas da Administração, frustrando a finalidade da contratação. 
+    57. De acordo com o art. 18, caput, da Lei n. 14.133, de 2021, a fase de planejamento deve abordar todas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação, sendo certo que a definição do objeto, modelo de execução e gestão do contrato devem levar em consideração cada um desses aspectos.  Os critérios de sustentabilidade previstos em leis, decretos e outras normas infralegais deverão ser inseridos na especificação do objeto sempre que obrigatórios, encontrando-se orientações  jurídicas sobre o tema no Guia Nacional de Contratações Sustentáveis/AGU
+    58. No que tange às considerações técnicas, a especificação do objeto deve considerar as normas técnicas eventualmente existentes, elaboradas pela Associação Brasileira de Normas Técnicas – ABNT, quanto a requisitos mínimos de qualidade, utilidade, resistência e segurança, nos termos do art. 1º da Lei nº 4.150, de 1962.
+    59. Portanto, o gestor deverá tomar as cautelas necessárias para assegurar que as especificações correspondam àquelas essenciais ao bem, sem as quais não poderão ser atendidas as necessidades da Administração, evitando por outro lado, detalhes considerados supérfluos ou desnecessários, que possam limitar a competição indevidamente.
+    60. Por fim, deve a Administração indicar se o objeto que será contratado está contemplado no catálogo eletrônico de padronização de compras, serviços e obras, no âmbito da Administração Pública federal direta, autárquica e fundacional, conforme Portaria Seges/ME nº 938, de 2 de fevereiro de 2022.
+    61. No caso dos autos e a despeito da tecnicidade do assunto, aparentemente o órgão não definiu o objeto de forma a contemplar os elementos acima, sendo conveniente ressaltar que...
+
+Demais aspectos ligados à definição do Objeto
+Quantitativos Estimados
+    62. Uma vez definido o objeto licitatório, a Administração deve estimar, de forma clara e precisa, o quantitativo demandado para o atendimento da necessidade administrativa por meio daquela solução escolhida. Evidentemente, a própria escolha da solução pode ter sido influenciada por esse dimensionamento, mas naquele momento os cálculos podem ter sido efetuados de maneira aproximada, apenas para subsidiar a decisão entre as opções disponíveis.
+    63. Nessa etapa, entretanto, a definição do aspecto quantitativo demanda pormenorização, com a demonstração dos cálculos pelos quais se chegou à estimativa de quantidades. Isso é especialmente importante de ser registrado nos autos por ser um ponto objetivo, de maior verificação e consequentes questionamentos, que se tornam mais difíceis de responder à medida que o tempo transcorre, quando a memória e a documentação correspondente podem estar menos acessíveis.
+    64. Assim, deve-se evitar ao máximo estimativas genéricas, sem respaldo em elementos técnicos que evidenciem a exata correlação entre a quantidade estimada e a demanda.
+    65. Nesse sentido, o art. 40 da Lei nº 40.133, de 2021, dispõe que o planejamento de compras considere a expectativa de consumo anual, devendo tal regra ser observada no caso concreto, admitindo-se o fornecimento contínuo, conforme inciso III do citado dispositivo.
+    66. Por fim, convém observar que a adoção de orçamento sigiloso não conduz ao sigilo dos quantitativos. Pelo contrário, permanece ampla a divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas.
+    67. Deve-se ressalvar que não compete a esta unidade jurídica adentrar em questões técnicas, apenas apontar que o processo necessariamente contenha os esclarecimentos acerca da metodologia utilizada para a previsão idônea dos quantitativos estimados para a licitação e verificar se há suporte documental coerente com aquele que é exigido pela legislação para a fase interna da licitação.
+    68. No caso concreto, a legitimidade do quantitativo da futura contratação [está/não está] suficientemente demonstrada [, sendo conveniente ressaltar que...]
+
+Parcelamento do objeto da contratação
+    69. Via de regra, as aquisições da Administração Pública devem atender ao princípio do parcelamento, que deverá ser adotado quando for tecnicamente viável e economicamente vantajoso, conforme artigo 40, inciso V, alínea b, da Lei nº 14.133, de 2021:
+Art. 40. O planejamento de compras deverá considerar a expectativa de consumo anual e observar o seguinte:
+(...)
+V - atendimento aos princípios:
+a) da padronização, considerada a compatibilidade de especificações estéticas, técnicas ou de desempenho;
+b) do parcelamento, quando for tecnicamente viável e economicamente vantajoso;
+c) da responsabilidade fiscal, mediante a comparação da despesa estimada com a prevista no orçamento.
+(...) (grifou-se)
+    70. Ocorre que o parcelamento deve ser adotado levando-se em consideração alguns critérios objetivos, descritos no §2º do dispositivo citado:
+§ 2º Na aplicação do princípio do parcelamento, referente às compras, deverão ser considerados:
+I - a viabilidade da divisão do objeto em lotes;
+II - o aproveitamento das peculiaridades do mercado local, com vistas à economicidade, sempre que possível, desde que atendidos os parâmetros de qualidade; e
+III - o dever de buscar a ampliação da competição e de evitar a concentração de mercado.
+    71. Por outro lado, há situações em que a lei expressamente restringe a possibilidade de parcelamento do objeto, conforme situações descritas no mesmo art. 40, em seu parágrafo terceiro: 
+§ 3º O parcelamento não será adotado quando:
+I - a economia de escala, a redução de custos de gestão de contratos ou a maior vantagem na contratação recomendar a compra do item do mesmo fornecedor;
+II - o objeto a ser contratado configurar sistema único e integrado e houver a possibilidade de risco ao conjunto do objeto pretendido;
+III - o processo de padronização ou de escolha de marca levar a fornecedor exclusivo.
+    72. Como critério conceitual, o artigo 87 do Código Civil preceitua:
+Bens divisíveis são os que se podem fracionar sem alteração na sua substância, diminuição considerável de valor, ou prejuízo do uso a que se destinam. 
+    73. Em vista disso, e de uma forma geral, as licitações em que o objeto é disposto em um item apenas, ou em que os vários objetos são dispostos em vários itens, com disputa e adjudicação independentes entre si, tendem a observar o princípio do parcelamento, desde que cada um dos objetos dos itens sejam considerados indivisíveis, o que deve ser esclarecido pelo órgão.
+    74. Por outro lado, a disposição de um objeto em tese indivisível em um mesmo item (como nos casos de aquisição com instalação, por exemplo), ou a agregação de itens em um grupo, pode vir a caracterizar a não observância do referido princípio, demandando, necessariamente, justificativa por parte do órgão ou entidade.
+    75. Ainda nesse tocante, a agregação de itens em grupo para julgamento da proposta pelo menor preço global do grupo pode vir a comprometer a seleção da proposta efetivamente mais vantajosa, caso seja possível a contratação de itens isolados e a não contratação de outros. Nesses casos, seria cabível aplicar em um pregão comum, por analogia, as regras dos §§1º e 2º do artigo 82, que disciplina o Sistema de Registro de Preços:
+§ 1º O critério de julgamento de menor preço por grupo de itens somente poderá ser adotado quando for demonstrada a inviabilidade de se promover a adjudicação por item e for evidenciada a sua vantagem técnica e econômica, e o critério de aceitabilidade de preços unitários máximos deverá ser indicado no edital.
+§ 2º Na hipótese de que trata o § 1º deste artigo, observados os parâmetros estabelecidos nos §§ 1º, 2º e 3º do art. 23 desta Lei, a contratação posterior de item específico constante de grupo de itens exigirá prévia pesquisa de mercado e demonstração de sua vantagem para o órgão ou entidade.
+    76. De qualquer forma, a decisão final envolve contornos técnicos e gerenciais específicos, a serem pormenorizados pelo órgão contratante, mediante justificativa baseada nos elementos legalmente definidos.
+    77. No caso concreto, em que pese o aspecto técnico envolvido, observa-se que a Administração pretende promover a licitação de item (itens) de objeto, em tese, divisíveis/a agregação de itens em um grupo sem ter apresentado motivação idônea para tanto.
+
+Instrumentos de governança - PCA, PLS e outros
+    78. De acordo como do artigo 18 da Lei nº 14.133, de 2021, a fase preparatória da licitação deve compatibilizar-se com o plano de contratações anual. 
+Art. 12. No processo licitatório, observar-se-á o seguinte:
+(...)
+VII - a partir de documentos de formalização de demandas, os órgãos responsáveis pelo planejamento de cada ente federativo poderão, na forma de regulamento, elaborar plano de contratações anual, com o objetivo de racionalizar as contratações dos órgãos e entidades sob sua competência, garantir o alinhamento com o seu planejamento estratégico e subsidiar a elaboração das respectivas leis orçamentárias.
+    79. É preciso compreender que o PCA constitui instrumento de governança descrito na Portaria Seges/ME nº 8.678, de 19 de julho de 2021, dispõe sobre a governança das contratações públicas no âmbito de toda a Administração Pública federal. Por elucidativo, segue transcrição do art. 6º, que elenca os instrumentos de governança em contratações públicas:
+Art. 6º São instrumentos de governança nas contratações públicas, dentre outros:
+I - Plano Diretor de Logística Sustentável - PLS; 
+II - Plano de Contratações Anual; 
+III - Política de gestão de estoques; 
+IV - Política de compras compartilhadas; 
+V - Gestão por competências; 
+VI - Política de interação com o mercado; 
+VII - Gestão de riscos e controle preventivo; 
+VIII - Diretrizes para a gestão dos contratos; e 
+IX - Definição de estrutura da área de contratações públicas.
+Parágrafo único. Os instrumentos de governança de que trata este artigo devem estar alinhados entre si.
+    80. É certo que o administrador público deve demonstrar que a contratação pretendida está alinhada aos instrumentos e às diretrizes definidas no normativo acima citado.
+    81. Sem prejuízo da orientação acima, convém tecer algumas considerações sobre os instrumentos de governança abaixo indicados.
+
+Plano de Contratações Anual - PCA
+    82. O Decreto nº 10.197, de 2022, regulamentou o Plano de Contratações Anual – PCA, assim como instituiu o Sistema de Planejamento e Gerenciamento de Contratações, tendo imposto aos órgãos e as entidades a obrigatoriedade de elaboração, até a primeira quinzena de maio de cada exercício, de planos de contratações anual, os quais conterão todas as contratações que pretendem realizar no exercício subsequente.
+    83. É certo que o PCA deve ser divulgado e mantido à disposição do público em sítio eletrônico oficial e deverá ser observado na realização de licitações e na execução dos contratos, conforme artigo 12, §º, da Lei nº 14.133, de 2022.
+    84. Convém lembrar que, de acordo com o artigo 17 do Decreto nº 10.197, de 2022, incumbe ao setor de contratações a verificação de que a demanda está contemplada no plano de contratações, devendo tal informação constar de forma expressa na fase de planejamento, o que deve ser feito no Estudo Técnico Preliminar, conforme expressamente prevê o art. 18, §1º, inciso II.
+    85. No caso concreto, a Administração não registrou se a demanda está devidamente contemplada no PCA do órgão, sendo conveniente ressaltar que [...]
+
+Plano Diretor de Logística Sustentável - PLS e definição de critérios de sustentabilidade nas aquisições
+    86. Como visto, o Plano Diretor de Logística Sustentável - PLS se caracteriza como instrumento de governança, vinculado ao planejamento estratégico do órgão ou entidade, ou instrumento equivalente, e às leis orçamentárias, que estabelece a estratégia das contratações e da logística no âmbito do órgão ou entidade, considerando objetivos e ações referentes a critérios de sustentabilidade, nas dimensões econômica, social, ambiental e cultural.
+    87. No caso concreto, a Administração não registrou se a demanda está devidamente contemplada no PLS do órgão, sendo conveniente ressaltar que [...]
+
+Análise de riscos
+    88. No presente caso, foi juntado aos autos o Mapa de Riscos, o que atende ao art. 18, inciso X, da Lei nº 14.133, de 2021.
+OU
+    89. O art. 18, inciso X, da Lei nº 14.133, de 2021, estabelece que o planejamento da contratação deverá contemplar a análise dos riscos.
+    90. No Portal de Compras do Governo Federal consta tópico especialmente dedicado à Identificação e Avaliação de Riscos, que oferece orientações elaboradas base nas premissas estabelecidas pela Lei nº 14.133, de 2021. É certo que tais recomendações devem ser incorporadas no planejamento desta contratação.
+    91. Além disso, a Administração deve se atentar para a possibilidade de inserir no contrato tópico destinado à Matriz de Riscos (art. 6º, inciso XVII) e Matriz de Alocação de Riscos (art. 103), o que deve ser feito com base em avaliação concreta, com apresentação de justificativa, haja vista a possibilidade de elevação dos custos da contratação. Em caso de dúvidas, esta unidade jurídica poderá ser consultada.
+    92. No caso concreto, a Administração [elaborou/não elaborou] análise de riscos, sendo conveniente ressaltar que [...].
+Orçamento Estimado e Pesquisa de Preços
+    93. No presente caso, foi realizada a estimativa do valor da contratação, com indicação da observância do parâmetro previsto no inciso ... do art. 23, §1º da Lei nº 14.133, de 2021, materializada em documento que busca observar as exigências da Instrução Normativa Seges/ME nº 65, de 7 de julho de 2021, inclusive no que tange à priorização dos parâmetros acima indicados/justificativa pela não observância dos parâmetros prioritários indicados no §1º do artigo 5º da referida IN, similares aos dos incisos I e II do §1º do art. 23 supra indicado. Além disso, de se destacar o registro quanto à análise crítica dos valores coletados.
+OU
+    94. O orçamento estimado da contratação é tratado no artigo 23 da Lei nº 14.133, de 2021, sendo que, para compras, devem ser observados os parâmetros previstos em seu §1º:
+Art. 23. O valor previamente estimado da contratação deverá ser compatível com os valores praticados pelo mercado, considerados os preços constantes de bancos de dados públicos e as quantidades a serem contratadas, observadas a potencial economia de escala e as peculiaridades do local de execução do objeto.
+§ 1º No processo licitatório para aquisição de bens e contratação de serviços em geral, conforme regulamento, o valor estimado será definido com base no melhor preço aferido por meio da utilização dos seguintes parâmetros, adotados de forma combinada ou não:
+I - composição de custos unitários menores ou iguais à mediana do item correspondente no painel para consulta de preços ou no banco de preços em saúde disponíveis no Portal Nacional de Contratações Públicas (PNCP);
+II - contratações similares feitas pela Administração Pública, em execução ou concluídas no período de 1 (um) ano anterior à data da pesquisa de preços, inclusive mediante sistema de registro de preços, observado o índice de atualização de preços correspondente;
+III - utilização de dados de pesquisa publicada em mídia especializada, de tabela de referência formalmente aprovada pelo Poder Executivo federal e de sítios eletrônicos especializados ou de domínio amplo, desde que contenham a data e hora de acesso;
+IV - pesquisa direta com no mínimo 3 (três) fornecedores, mediante solicitação formal de cotação, desde que seja apresentada justificativa da escolha desses fornecedores e que não tenham sido obtidos os orçamentos com mais de 6 (seis) meses de antecedência da data de divulgação do edital;
+V - pesquisa na base nacional de notas fiscais eletrônicas, na forma de regulamento.
+(...)
+    95. Além das regras legais, também devem ser observadas as normas da Instrução Normativa Seges/ME nº 65, de 7 de julho de 2021, que estabelece o dever de materialização da pesquisa de preços em documento que contemple, no mínimo, as exigências do artigo 3º da referida norma:
+Art. 3º A pesquisa de preços será materializada em documento que conterá, no mínimo: 
+I - descrição do objeto a ser contratado; 
+II - identificação do(s) agente(s) responsável(is) pela pesquisa ou, se for o caso, da equipe de planejamento; 
+III - caracterização das fontes consultadas; 
+IV - série de preços coletados; 
+V - método estatístico aplicado para a definição do valor estimado; 
+VI - justificativas para a metodologia utilizada, em especial para a desconsideração de valores inconsistentes, inexequíveis ou excessivamente elevados, se aplicável; 
+VII - memória de cálculo do valor estimado e documentos que lhe dão suporte; e 
+VIII - justificativa da escolha dos fornecedores, no caso da pesquisa direta de que dispõe o inciso IV do art. 5º. 
+    96. Referida IN, em seu artigo 5º, define os parâmetros a serem utilizados na estimativa de custos, de forma bastante similar ao disposto na Lei nº 14.133, de 2021. Acrescenta, no entanto, no §1º do artigo 5º que devem ser priorizados os parâmetros dos incisos I e II, painel para consulta de preços do PNCP e contratações similares, respectivamente, devendo ser apresentada justificativa nos autos em caso de impossibilidade de adoção destes.
+    97. Assim, o primeiro ponto a ser destacado é a necessidade jurídica dessa priorização, a ser justificada nos autos quando não observada. 
+    98. Um segundo ponto refere-se ao limite temporal estabelecido para os parâmetros utilizados na pesquisa de preços, voltados a evitar que os valores pesquisados já estejam desatualizados, conforme descrito nos incisos do artigo 5º da Instrução Normativa nº 65, de 2021, cabendo repetir a pesquisa de preços sempre que ultrapassado o ali prazo previsto. 
+    99. Por fim, impende ressaltar a previsão do art. 6º, § 4º, da IN nº 65, de 2021, que deve ser observada pelo consulente no sentido de que "Os preços coletados devem ser analisados de forma crítica, em especial, quando houver grande variação entre os valores apresentados ".
+    100. No caso concreto, não houve realização de pesquisa nos termos descritos nas normas aplicáveis, sendo conveniente ressaltar que, aparentemente,
+OU
+    101. Não foram priorizados os parâmetros dos incisos I e II do art. 23, §1º da Lei 14.1333/2021, não havendo justificativa nos autos.
+OU
+    102. Não foram observados os limites temporais do artigo 5º da Instrução Normativa nº 65, de 2021
+OU
+    103. Não foi feita a análise crítica dos valores coletados
+
+Orçamento Sigiloso
+    104. A Administração pode optar pela realização de licitação com preservação das informações do orçamento estimado, o que se admite desde que justificadamente, conforme estabelece o art. 24, da Lei nº 14.133, de 2021:
+Art. 24. Desde que justificado, o orçamento estimado da contratação poderá ter caráter sigiloso, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas, e, nesse caso:
+    105. De acordo com o art. 18, §1º, inciso VI, o ETP deve tratar da estimativa do valor da contratação, acompanhada dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte, que poderão constar de anexo classificado, caso a Administração optar por preservar o seu sigilo até a conclusão da licitação.
+    106. Desse modo, o planejamento da contratação deve contemplar a análise de conveniência e oportunidade sobre a adoção ou não do orçamento sigiloso.
+    107. Convém ressaltar que, em caso de adoção do critério de julgamento por maior desconto, o preço estimado ou o máximo aceitável deve constar obrigatoriamente do edital da licitação, ou seja, não é possível adoção de orçamento sigiloso (cf. art. 24, parágrafo único, da Lei nº 14.133, de 2021).
+    108. No caso concreto, a instrução processual revela que o tema foi tratado expressamente, tendo a Administração optado por postergar a divulgação do orçamento estimado, de forma justificada.
+OU
+    109. No caso concreto, a instrução processual revela que a Administração optou por postergar a divulgação do orçamento estimado, sem ter apresentado justificativa para tanto, o que demanda providências para o fim de atender o disposto no art. 24 da Lei nº 14.133, de 2021, acima reproduzido.
+
+Termo de Referência
+    110. O termo de referência foi juntado aos autos e reúne cláusulas e condições essenciais exigidas nos instrumentos da espécie.
+    111. Observa-se que o instrumento segue o modelo elaborado pela Advocacia-Geral da União. As alterações efetuadas no modelo elaborado pela AGU foram destacadas e estão de acordo com o ordenamento jurídico, razão pela qual nada temos a ponderar.
+OU
+    112. O Termo de Referência deve contemplar as exigências do artigo 6º, XXIII, da Lei nº 14.133, de 2022:
+Art. 6º Para os fins desta Lei, consideram-se:
+(...)
+XXIII - termo de referência: documento necessário para a contratação de bens e serviços, que deve conter os seguintes parâmetros e elementos descritivos:
+a) definição do objeto, incluídos sua natureza, os quantitativos, o prazo do contrato e, se for o caso, a possibilidade de sua prorrogação;
+b) fundamentação da contratação, que consiste na referência aos estudos técnicos preliminares correspondentes ou, quando não for possível divulgar esses estudos, no extrato das partes que não contiverem informações sigilosas;
+c) descrição da solução como um todo, considerado todo o ciclo de vida do objeto;
+d) requisitos da contratação;
+e) modelo de execução do objeto, que consiste na definição de como o contrato deverá produzir os resultados pretendidos desde o seu início até o seu encerramento;
+f) modelo de gestão do contrato, que descreve como a execução do objeto será acompanhada e fiscalizada pelo órgão ou entidade;
+g) critérios de medição e de pagamento;
+h) forma e critérios de seleção do fornecedor;
+i) estimativas do valor da contratação, acompanhadas dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte, com os parâmetros utilizados para a obtenção dos preços e para os respectivos cálculos, que devem constar de documento separado e classificado;
+j) adequação orçamentária;
+(...)
+    113. Especificamente em relação a compras, também devem ser observadas as exigências do art. 40, §1º, da Lei nº 14.133, de 2021:
+Art. 40. O planejamento de compras deverá considerar a expectativa de consumo anual e observar o seguinte:
+(...)
+§ 1º O termo de referência deverá conter os elementos previstos no inciso XXIII do caput do art. 6º desta Lei, além das seguintes informações:
+I - especificação do produto, preferencialmente conforme catálogo eletrônico de padronização, observados os requisitos de qualidade, rendimento, compatibilidade, durabilidade e segurança;
+II - indicação dos locais de entrega dos produtos e das regras para recebimentos provisório e definitivo, quando for o caso;
+III - especificação da garantia exigida e das condições de manutenção e assistência técnica, quando for o caso.
+(...)
+    114. Especificamente em relação aos serviços, também devem ser observadas as exigências do art. 47, §1º, da Lei nº 14.133, de 2021:
+Art. 47. As licitações de serviços atenderão aos princípios:
+I - da padronização, considerada a compatibilidade de especificações estéticas, técnicas ou de desempenho;
+II - do parcelamento, quando for tecnicamente viável e economicamente vantajoso.
+§ 1º (...)
+Art. 48. Poderão ser objeto de execução por terceiros as atividades materiais acessórias, instrumentais ou complementares aos assuntos que constituam área de competência legal do órgão ou da entidade, vedado à Administração ou a seus agentes, na contratação do serviço terceirizado:
+I - indicar pessoas expressamente nominadas para executar direta ou indiretamente o objeto contratado;
+II - fixar salário inferior ao definido em lei ou em ato normativo a ser pago pelo contratado;
+III - estabelecer vínculo de subordinação com funcionário de empresa prestadora de serviço terceirizado;
+IV - definir forma de pagamento mediante exclusivo reembolso dos salários pagos;
+V - demandar a funcionário de empresa prestadora de serviço terceirizado a execução de tarefas fora do escopo do objeto da contratação;
+VI - prever em edital exigências que constituam intervenção indevida da Administração na gestão interna do contratado.
+Parágrafo único. (...)
+
+    115. A Instrução Normativa Seges/ME nº 81, de 25 de novembro de 2022, dispõe sobre a elaboração do Termo de Referência – TR, para a aquisição de bens e a contratação de serviços, no âmbito da administração pública federal direta, autárquica e fundacional, e sobre o Sistema TR digital. A Administração deve cuidar para que suas exigências sejam atendidas no caso concreto.
+    116. No caso dos autos, além dos aspectos específicos tratados nos tópicos seguintes, vale registrar que o Termo de Referência demanda alguns aprimoramentos, notadamente...
+    117. . No presente caso, verifica-se que o Órgão assessorado inseriu previsões de sustentabilidade no Termo de Referência. 
+OU 
+    118. No caso vertente, o Órgão assessorado justificou a não incidência de previsões de sustentabilidade no Termo de Referência. 
+OU
+    119. No caso vertente, não há manifestação do Órgão assessorado acerca da incidência de previsões de sustentabilidade, o que solicitamos seja sanado ou apresentada motivação administrativa para a não incidência. 
+
+Utilização ou não de minuta padronizada de TR.
+    120. A padronização de modelos de documentos da fase interna da licitação constitui medida de eficiência e celeridade administrativa que encontra previsão no art. 19, inciso IV, da Lei nº 14.133, de 2021:
+Art. 19. Os órgãos da Administração com competências regulamentares relativas às atividades de administração de materiais, de obras e serviços e de licitações e contratos deverão:
+I - instituir instrumentos que permitam, preferencialmente, a centralização dos procedimentos de aquisição e contratação de bens e serviços;
+II - criar catálogo eletrônico de padronização de compras, serviços e obras, admitida a adoção do catálogo do Poder Executivo federal por todos os entes federativos;
+III - instituir sistema informatizado de acompanhamento de obras, inclusive com recursos de imagem e vídeo;
+IV - instituir, com auxílio dos órgãos de assessoramento jurídico e de controle interno, modelos de minutas de editais, de termos de referência, de contratos padronizados e de outros documentos, admitida a adoção das minutas do Poder Executivo federal por todos os entes federativos;
+V - promover a adoção gradativa de tecnologias e processos integrados que permitam a criação, a utilização e a atualização de modelos digitais de obras e serviços de engenharia. 
+(grifou-se)
+    121. Tal postulado foi registrado na quarta edição do Manual de Boas Práticas Consultivas da AGU, conforme Enunciado BPC nº 06:
+A atuação consultiva na análise de processos de contratação pública deve fomentar a utilização das listas de verificação documental (check lists), do Guia Nacional de Licitações Sustentáveis e das minutas de editais, contratos, convênios e congêneres, disponibilizadas nos sítios eletrônicos da Advocacia-Geral da União e da Procuradoria-Geral da Fazenda Nacional.
+No intuito de padronização nacional, incumbe aos Órgãos Consultivos recomendar a utilização das minutas disponibilizadas pelos Órgãos de Direção Superior da AGU, cujas atualizações devem ser informadas aos assessorados.
+Convém ainda que os Órgãos Consultivos articulem-se com os assessorados, de modo a que edições de texto por estes produzidas em concreto a partir das minutas-padrão sejam destacadas, visando a agilizar o exame jurídico posterior pela instância consultiva da AGU (grifou-se).
+    122. Para que os objetivos de celeridade, eficiência e segurança sejam alcançados, é preciso que a Administração aponte claramente:
+    I) Se houve utilização de modelos padronizados;
+    II) Qual modelo foi adotado; e
+    III) Quais foram as modificações ou adaptações eventualmente efetuadas no modelo. 
+    123. No caso, verifica-se que a Administração [utilizou/não utilizou] modelo padronizado de Termo de Referência, sendo conveniente ressaltar que [...].
+Da natureza comum do objeto da licitação
+    124. Compete à administração declarar que o objeto licitatório é de natureza comum, haja vista que a licitação por pregão somente é obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto, conforme consta do art. 6º, inciso XLI, da Lei nº 14.133, de 2021.
+    125. A definição de bens e serviços comuns pode ser extraída diretamente da Lei nº 14.133, de 2021, que apresenta tal conceito nos seguintes termos:
+Art. 6º Para os fins desta Lei, consideram-se:
+(...)
+XIII - bens e serviços comuns: aqueles cujos padrões de desempenho e qualidade podem ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado;
+(...)
+    126. Sobre a necessidade de a Administração declarar a natureza do objeto da contratação, a Orientação Normativa nº 54, de 2014, da Advocacia-Geral da União, dispõe:
+“Compete ao agente ou setor técnico da administração declarar que o objeto licitatório é de natureza comum para efeito de utilização da modalidade pregão e definir se o objeto corresponde a obra ou serviço de engenharia, sendo atribuição do órgão jurídico analisar o devido enquadramento da modalidade licitatória aplicável.”
+    127. Embora referida Orientação Normativa tenha sido editada à luz da Lei nº 8.666, de 1993, tem-se que o entendimento jurídico nela consubstanciado é compatível com a Lei nº 14.133, de 2021, motivo pelo qual merece ser observado.
+    128. No caso concreto, a Administração [declarou/não declarou] expressamente a natureza comum do objeto da licitação, sendo conveniente ressaltar que [...].
+Informação sobre o Regime de Fornecimento
+    129. Os documentos de planejamento da contratação devem tratar do regime de fornecimento de bens, observados os potenciais de economia de escala, cujos impactos podem afetar a decisão sobre o parcelamento ou não do objeto, que será abordado mais adiante.
+    130. No caso concreto, o regime de fornecimento [foi/não foi] suficientemente explicitado, sendo conveniente ressaltar que [...].
+Aquisição de bem de consumo que se enquadra como bem de luxo
+    131. De acordo com o art. 20 da Lei nº 14.133, de 2021, não é admitida a aquisição de artigos de luxo, tendo os §§ 1º e 2º tratado da necessidade de regulamentação do tema: 
+Art. 20. Os itens de consumo adquiridos para suprir as demandas das estruturas da Administração Pública deverão ser de qualidade comum, não superior à necessária para cumprir as finalidades às quais se destinam, vedada a aquisição de artigos de luxo.            Regulamento   (Vigência)
+§ 1º Os Poderes Executivo, Legislativo e Judiciário definirão em regulamento os limites para o enquadramento dos bens de consumo nas categorias comum e luxo.
+§ 2º A partir de 180 (cento e oitenta) dias contados da promulgação desta Lei, novas compras de bens de consumo só poderão ser efetivadas com a edição, pela autoridade competente, do regulamento a que se refere o § 1º deste artigo.
+§ 3º (VETADO).
+    132. No âmbito da administração pública federal, o tema foi regulamentado pelo Decreto nº 10.818, de 2021, tendo seu art. 5º reforçado a vedação de aquisição de bens de consumo enquadrados como bens de luxo, sendo admitidas as exceções contidas em seu art. 4º:
+Art. 4º Não será enquadrado como bem de luxo aquele que, mesmo considerado na definição do inciso I do caput do art. 2º:
+I - for adquirido a preço equivalente ou inferior ao preço do bem de qualidade comum de mesma natureza; ou
+II - tenha as características superiores justificadas em face da estrita atividade do órgão ou da entidade.
+    133. No caso concreto, a Administração pretende promover a aquisição de bem de consumo de luxo, [tendo/não tendo] apresentado suficiente justificativa que demonstre a incidência do permissivo do art. 4º do Decreto nº 10.818, de 2021.
+Indicação de marca ou modelo
+    134. Quanto à eventual indicação de marca ou modelo, cabe salientar que lei admite tal possibilidade de forma excepcional, por representar restrição à ampla competitividade do certame.
+    135. O artigo 41 da Lei nº 14.133, de 2021, apresenta as hipóteses em que será possível a indicação de marca ou modelo:
+Art. 41. No caso de licitação que envolva o fornecimento de bens, a Administração poderá excepcionalmente:
+I - indicar uma ou mais marcas ou modelos, desde que formalmente justificado, nas seguintes hipóteses:
+a) em decorrência da necessidade de padronização do objeto;
+b) em decorrência da necessidade de manter a compatibilidade com plataformas e padrões já adotados pela Administração;
+c) quando determinada marca ou modelo comercializados por mais de um fornecedor forem os únicos capazes de atender às necessidades do contratante;
+d) quando a descrição do objeto a ser licitado puder ser mais bem compreendida pela identificação de determinada marca ou determinado modelo aptos a servir apenas como referência;
+    136. Ocorre que a indicação de marca/modelo não basta para a exclusão das demais opções do mercado, sendo certa a possibilidade de realização, pelo interessado, de prova de qualidade de produto similar, conforme disciplinado no artigo 42 da Lei nº 14.133, de 2021:
+Art. 42. A prova de qualidade de produto apresentado pelos proponentes como similar ao das marcas eventualmente indicadas no edital será admitida por qualquer um dos seguintes meios:
+I - comprovação de que o produto está de acordo com as normas técnicas determinadas pelos órgãos oficiais competentes, pela Associação Brasileira de Normas Técnicas (ABNT) ou por outra entidade credenciada pelo Inmetro;
+II - declaração de atendimento satisfatório emitida por outro órgão ou entidade de nível federativo equivalente ou superior que tenha adquirido o produto;
+III - certificação, certificado, laudo laboratorial ou documento similar que possibilite a aferição da qualidade e da conformidade do produto ou do processo de fabricação, inclusive sob o aspecto ambiental, emitido por instituição oficial competente ou por entidade credenciada.
+§ 1º O edital poderá exigir, como condição de aceitabilidade da proposta, certificação de qualidade do produto por instituição credenciada pelo Conselho Nacional de Metrologia, Normalização e Qualidade Industrial (Conmetro).
+§ 2º A Administração poderá, nos termos do edital de licitação, oferecer protótipo do objeto pretendido e exigir, na fase de julgamento das propostas, amostras do licitante provisoriamente vencedor, para atender a diligência ou, após o julgamento, como condição para firmar contrato.
+§ 3º No interesse da Administração, as amostras a que se refere o § 2º deste artigo poderão ser examinadas por instituição com reputação ético-profissional na especialidade do objeto, previamente indicada no edital.
+    137. Ainda sobre indicação de marca, também deve ser considerada a vedação do artigo 40, §3º, da Lei nº 14.133, de 2021, que, ao tratar do parcelamento, destaca sua inadequação quando o processo de padronização ou de escolha de marca levar a fornecedor exclusivo.
+    138. Por outro lado, nada impede que a Administração efetive a indicação de marca/modelo, quando for necessária como parâmetro ou referência para as especificações qualitativas do objeto, para facilitação de sua identificação, sendo conveniente, neste caso, vir acompanhada das expressões “equivalente, similar ou de melhor qualidade”.
+    139. De tudo o que foi apresentado, fica a constatação de que a marca não poderá ser indicada como o objeto da contratação em si. Ou seja, o administrador não poderá externar sua preferência por contratação de certa marca, a seu talante, sem a correspondente motivação técnica objetiva e fundamentada. Portanto, a referência à marca deve ser consequência das características específicas do objeto, e não seu pressuposto, sob pena de indevida restrição da licitação e quebra da isonomia dos licitantes.
+    140. No caso concreto, a Administração promoveu a indicação de marca/modelo, sendo conveniente destacar que [...].
+Vedação de marca ou produto
+    141. O art. 41, inciso III, da Lei nº 14.133, de 2021, contempla a possibilidade de a Administração vedar a contratação de marca ou produto, quando, mediante processo administrativo, restar comprovado que produtos adquiridos e utilizados anteriormente pela Administração não atendem a requisitos indispensáveis ao pleno adimplemento da obrigação contratual. 
+    142. No caso concreto, a Administração inseriu no Termo de Referência a vedação à contratação de marca ou produto, [estando/não estando] tal restrição suficientemente justificada no processo, sendo conveniente destacar que [...].
+Condições de aquisição e pagamento semelhantes às do setor privado
+    143. De acordo com o art. 40, inciso I, da Lei nº 40.133, de 2021, na fase de planejamento da contratação a Administração deve cuidar para que o planejamento de compras considere condições de aquisição e pagamento semelhantes às do setor privado, devendo tal cautela ser demonstrada ou certificada nos documentos de planejamento.
+    144. No caso concreto, o tema [foi/não foi] tratado na fase de planejamento, sendo conveniente ressaltar que [...].
+Condições de execução e pagamento, das garantias exigidas e ofertadas e das condições de recebimento
+    145. O art. 18, inciso III, da Lei nº 14.133, de 2021, exige que a fase de planejamento da contratação contemple as condições de execução e pagamento, das garantias exigidas e ofertadas e das condições de recebimento, sendo certo que sua definição envolve algum juízo de conveniência e oportunidade a ser realizado pelo administrador. 
+    146. No caso concreto, o tema [foi/não foi] tratado de forma suficiente no TR, sendo conveniente destacar que [...].
+Modalidade, critério de julgamento e modo de disputa 
+    147. Com base na exigência do art. 18, inciso VIII, da Lei nº 14.133, de 2021, é possível concluir que a fase de planejamento deve abordar as razões que conduzem a definição de elementos aptos a conduzir a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, considerado todo o ciclo de vida do objeto. 
+    148. Desse modo, com base na premissa de busca pela proposta mais vantajosa, deve o planejamento da contratação conter informações sobre:
+    I) modalidade de licitação;
+    II) critério de julgamento;
+    III) modo de disputa; e
+    IV) adequação e eficiência da forma de combinação desses parâmetros.
+    149. No caso concreto, o tema [foi/não foi] tratado na fase de planejamento, sendo conveniente ressaltar que [...].
+Objetividade das exigências de qualificação técnica
+    150. Enquanto a habilitação profissional procura investigar se o licitante tem experiência anterior na execução de parcela relevante do objeto, a habilitação operacional visa verificar se o licitante reúne condições de executar o objeto na dimensão que ele (o objeto) possui.
+    151. A exigência de qualificação técnica-profissional é mais comum em obras e serviços de engenharia, mas não é vedada nos demais objetos. Caso se a entenda indispensável à garantia do adimplemento das obrigações (conforme art. 37, XXI, da Constituição Federal), então será necessário especificar de forma clara e expressa de qual parcela do objeto será exigida comprovação de experiência anterior, e por meio de qual profissional(is), para permitir o julgamento objetivo quanto ao atendimento da exigência na fase de habilitação do certame. O requisito legal a ser observado é que esta parcela claramente especificada represente ao menos 4% do valor estimado da contratação, conforme art. 67, §1º da Lei nº 14.133, de 2021.
+    152. Já a comprovação da qualificação técnica-operacional costuma ser exigida na generalidade dos casos, e afere a capacidade de gestão do licitante de executar o objeto licitatório. Por isso é indispensável indicar quantitativos mínimos a serem comprovados, até o limite de 50% do quantitativo previsto, conforme art. 67, §2º da Lei nº 14.133, de 2021. 
+    153. No caso concreto, o tema não foi tratado de forma adequada no TR, não se indicando os quantitativos mínimos a serem comprovados.
+OU
+    154. No caso concreto, o tema não foi tratado de forma adequada no TR, sendo conveniente destacar que...
+
+Exigências de Qualificação nas hipóteses legais de dispensa, sem justificativa
+    155. O artigo art. 37, inciso XXI da Constituição Federal, preceitua que “o processo de licitação pública... somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações. 
+    156. O art. 70, III, da Lei Nº 14.133/2021, por sua vez, dispõe que as exigências de habilitação poderão ser dispensadas, “total ou parcialmente, nas contratações para entrega imediata, nas contratações em valores inferiores a 1/4 (um quarto) do limite para dispensa de licitação para compras em geral e nas contratações de produto para pesquisa e desenvolvimento até o valor de R$ 300.000,00 (trezentos mil reais).” (Referidos valores são atualizados anualmente por Decreto, conforme art. 182 da mesma Lei).
+    157. A combinação da disposição constitucional com a disposição legal resulta que as exigências de qualificação técnica e econômica nas situações retratadas no art. 70, III, deve ser excepcional e justificada.
+    158. No caso concreto, apesar de se tratar de hipótese em que o art. 70, III autoriza a dispensa de exigências habilitatórias, estas foram previstas no TR, sem justificativa para tanto. Recomenda-se que seja avaliada a indispensabilidade dessas, motivando-se as exigências em caso positivo, ou suprimindo-as em caso negativo.
+
+Da avaliação sobre a necessidade de qualificar o TR como documento classificado (Lei de Acesso à Informação)
+    159. De acordo com o art. 10 da Instrução Normativa Seges/Me nº 81, de 25 de novembro de 2022, ao final da elaboração do TR, deve-se avaliar a necessidade de classificá-lo nos termos da Lei nº 12.527, de 18 de novembro de 2011, o que deve ser observado no caso concreto.
+    160. No caso concreto, o tema [foi/não foi] tratado na fase de planejamento, sendo conveniente ressaltar que [...].
+Adequação orçamentária
+    161. Conforme se extrai do caput do artigo 18 da Lei nº 14.133, de 2021, a fase preparatória da licitação deve compatibilizar-se também com as leis orçamentárias.
+    162. A existência de disponibilidade orçamentária com a respectiva indicação da classificação funcional programática e da categoria econômica da despesa é uma imposição legal. Nesse ponto, convém citar o artigo 10, inciso IX, da Lei 8.429, de 1992, e o art. 105, da Lei nº 14.133, de 2021:
+Lei nº 8.429, de 1992
+Art. 10. Constitui ato de improbidade administrativa que causa lesão ao erário qualquer ação ou omissão dolosa, que enseje, efetiva e comprovadamente, perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação dos bens ou haveres das entidades referidas no art. 1º desta Lei, e notadamente:         (Redação dada pela Lei nº 14.230, de 2021)
+(...)
+IX - ordenar ou permitir a realização de despesas não autorizadas em lei ou regulamento;
+(...)
+Lei nº 14.133, de 2021
+Art. 105. A duração dos contratos regidos por esta Lei será a prevista em edital, e deverão ser observadas, no momento da contratação e a cada exercício financeiro, a disponibilidade de créditos orçamentários, bem como a previsão no plano plurianual, quando ultrapassar 1 (um) exercício financeiro. 
+(grifou-se)
+    163. Cabe também alertar para que, caso se trate de criação ou expansão de ação governamental que acarrete aumento da despesa, seja anexada a estimativa do impacto orçamentário no exercício e nos dois subsequentes, bem como a declaração sobre a adequação orçamentária e financeira para fazer face às despesas, em conformidade com as normas constantes dos arts. 16 e 17 da Lei Complementar nº 101, de 04 de maio de 2000 – Lei de Responsabilidade Fiscal.
+    164. Atente-se que compete ao órgão verificar, previamente ao envio dos autos para análise do órgão de assessoramento jurídico, a aplicabilidade da Orientação Normativa nº 52. do Advogado-Geral da União, a fim de dispensar a necessidade da declaração acerca dos arts. 16 e 17 da Lei Complementar nº 101, de 2000:
+"As despesas ordinárias e rotineiras da administração, já previstas no orçamento e destinadas à manutenção das ações governamentais preexistentes, dispensam as exigências previstas nos incisos I e II do art. 16 da lei complementar nº 101, de 2000".
+    165. No caso concreto, a Administração [informou que/não informou que] a despesa decorrente da contratação está devidamente prevista nas leis orçamentárias.
+    166. No mesmo sentido, [esclareceu/não esclareceu] [tratar-se/não se tratar] de criação ou expansão de ação governamental que acarrete aumento da despesa, e [atendeu/não atendeu/demonstrou a não incidência de] todas as exigências dos artigos 16 e 17 da Lei de Responsabilidade Fiscal [, sendo conveniente ressaltar que...].
+Minuta de Edital
+    167. A minuta de edital foi juntada aos autos e reúne cláusulas e condições essenciais exigidas nos instrumentos da espécie.
+    168. Observa-se que a minuta segue o modelo elaborado pela Advocacia-Geral da União. As alterações efetuadas no modelo elaborado pela AGU foram destacadas e estão de acordo com o ordenamento jurídico, razão pela qual nada temos a ponderar.
+OU
+    169. O artigo 25 da Lei nº 14.133, de 2021, trata dos requisitos a serem observados por ocasião da elaboração da minuta de edital, tendo seu §1º expressamente autorizado a utilização de minutas padronizadas, nas situações em que o objeto assim permitir. 
+    170. É preciso lembrar que o art. 18, inciso IX, da Lei nº 14.133, de 2021, exige que a fase preparatória seja instruída com motivação circunstanciada das condições do edital, tais como:
+    I) justificativa de exigências de qualificação técnica, mediante indicação das parcelas de maior relevância técnica ou valor significativo do objeto
+    II) justificativa de exigências de qualificação econômico-financeira;
+    III) justificativa dos critérios de pontuação e julgamento das propostas técnicas, nas licitações com julgamento por melhor técnica ou técnica e preço; e
+    IV) justificativa das regras pertinentes à participação de empresas em consórcio.
+    171. A motivação, a justificativa, a indicação das parcelas de maior relevância/valor, requisitos de qualificação econômico-financeira, critérios de pontuação, julgamento das propostas e participação ou não de consórcio, exigidos pelo art. 18, inciso IX, [constam/não constam] do processo, sendo conveniente apresentar as seguintes recomendações adicionais: [...].
+Da utilização ou não de minuta padronizada de Edital
+    172. Conforme já tratado neste parecer, a padronização de modelos de documentos da fase interna da licitação constitui medida de eficiência e celeridade administrativa que encontra previsão no art. 19, inciso IV, da Lei nº 14.133, de 2021.
+    173. Tal postulado foi registrado também na quarta edição do Manual de Boas Práticas Consultivas da AGU, conforme Enunciado BPC nº 06. 
+    174. Para que os objetivos de celeridade, eficiência e segurança sejam alcançados, é preciso que a Administração aponte claramente:
+    I) Se houve utilização de modelos padronizados;
+    II) Qual modelo foi adotado; e
+    III) Quais foram as modificações ou adaptações eventualmente efetuadas no modelo. 
+    175. No caso, verifica-se que a Administração [utilizou/não utilizou] modelo padronizado de minuta de Edital, sendo conveniente ressaltar que [...].
+Da restrição a participação de interessados no certame
+    176. O art. 9º da Lei nº 14.133, de 2021, veda expressamente que o agente público admita, preveja, inclua ou tolere qualquer tipo de restrição que comprometa ou frustre o caráter competitivo do processo licitatório, inclusive nos casos de participação de sociedades cooperativas e consórcios.
+    177. Também é vedado o estabelecimento de preferências ou distinções em razão da naturalidade, da sede ou do domicílio dos licitantes ou, ainda, a inclusão de regras que sejam impertinentes ou irrelevantes para o objeto específico do contrato.
+    178. O agente público também não poderá estabelecer tratamento diferenciado de natureza comercial, legal, trabalhista, previdenciária ou qualquer outra entre empresas brasileiras e estrangeiras, inclusive no que se refere a moeda, modalidade e local de pagamento, mesmo quando envolvido financiamento de agência internacional, conforme previsão do inciso II do art. 9º.
+    179. Especificamente em relação a consórcios, a Lei nº 14.133, de 2021, expressamente apresenta os requisitos necessários para sua participação em licitações:
+Art. 15. Salvo vedação devidamente justificada no processo licitatório, pessoa jurídica poderá participar de licitação em consórcio, observadas as seguintes normas:
+I - comprovação de compromisso público ou particular de constituição de consórcio, subscrito pelos consorciados;
+II - indicação da empresa líder do consórcio, que será responsável por sua representação perante a Administração;
+III - admissão, para efeito de habilitação técnica, do somatório dos quantitativos de cada consorciado e, para efeito de habilitação econômico-financeira, do somatório dos valores de cada consorciado;
+IV - impedimento de a empresa consorciada participar, na mesma licitação, de mais de um consórcio ou de forma isolada;
+V - responsabilidade solidária dos integrantes pelos atos praticados em consórcio, tanto na fase de licitação quanto na de execução do contrato.
+§ 1º O edital deverá estabelecer para o consórcio acréscimo de 10% (dez por cento) a 30% (trinta por cento) sobre o valor exigido de licitante individual para a habilitação econômico-financeira, salvo justificação.
+§ 2º O acréscimo previsto no § 1º deste artigo não se aplica aos consórcios compostos, em sua totalidade, de microempresas e pequenas empresas, assim definidas em lei.
+§ 3º O licitante vencedor é obrigado a promover, antes da celebração do contrato, a constituição e o registro do consórcio, nos termos do compromisso referido no inciso I do caput deste artigo.
+§ 4º Desde que haja justificativa técnica aprovada pela autoridade competente, o edital de licitação poderá estabelecer limite máximo para o número de empresas consorciadas.
+§ 5º A substituição de consorciado deverá ser expressamente autorizada pelo órgão ou entidade contratante e condicionada à comprovação de que a nova empresa do consórcio possui, no mínimo, os mesmos quantitativos para efeito de habilitação técnica e os mesmos valores para efeito de qualificação econômico-financeira apresentados pela empresa substituída para fins de habilitação do consórcio no processo licitatório que originou o contrato.
+    180. No que se refere a cooperativas, a Lei nº 14.133, de 2021, expressamente apresenta os requisitos necessários para sua participação em licitações:
+Art. 16. Os profissionais organizados sob a forma de cooperativa poderão participar de licitação quando:
+I - a constituição e o funcionamento da cooperativa observarem as regras estabelecidas na legislação aplicável, em especial a Lei nº 5.764, de 16 de dezembro de 1971, a Lei nº 12.690, de 19 de julho de 2012, e a Lei Complementar nº 130, de 17 de abril de 2009;
+II - a cooperativa apresentar demonstrativo de atuação em regime cooperado, com repartição de receitas e despesas entre os cooperados;
+III - qualquer cooperado, com igual qualificação, for capaz de executar o objeto contratado, vedado à Administração indicar nominalmente pessoas;
+IV - o objeto da licitação referir-se, em se tratando de cooperativas enquadradas na Lei nº 12.690, de 19 de julho de 2012, a serviços especializados constantes do objeto social da cooperativa, a serem executados de forma complementar à sua atuação.
+    181. Diante do exposto, qualquer vedação a participação de interessados na licitação, inclusive cooperativas e consórcios, deverá ser justificada no processo. 
+    182. No caso concreto, observa-se que o edital [prevê/não prevê] restrição a participação de interessados, sendo conveniente ressaltar que [...].
+Da participação de ME, EPP e Cooperativas 
+    183. Nos termos do inciso I do art. 48 da Lei Complementar nº 123, de 2006, com a redação dada pela Lei Complementar nº 147, de 2014, foi previsto tratamento favorecido, diferenciado e simplificado para microempresas e empresas de pequeno nas contratações públicas de bens, serviços e obras, sendo certo que o entendimento aqui apresentado é aplicável também a cooperativas equiparadas.
+Licitação Exclusiva
+    184. O art. 6º do referido Decreto estabelece que, nos itens ou lotes de licitação cujo valor esteja abaixo de R$ 80.000,00, a participação no processo licitatório deve ser exclusivamente destinada às microempresas e empresas de pequeno porte. 
+    185. No mesmo sentido a Orientação Normativa AGU nº 47/2014: 
+Em licitação dividida em itens ou lotes/grupos, deverá ser adotada a participação exclusiva de microempresa, empresa de pequeno porte ou sociedade cooperativa (art. 34 da Lei nº 11.488, de 2007) em relação aos itens ou lotes/grupos cujo valor seja igual ou inferior a R$ 80.000,00 (oitenta mil reais), desde que não haja a subsunção a quaisquer das situações previstas pelo art. 9º do Decreto nº 6.204, de 2007.
+    186. A Orientação Normativa AGU nº 10/2009, por sua vez, esclarece a forma de aferição do valor de R$ 80.000,00 (oitenta mil reais) como sendo a referente ao período de um ano da contratação.
+Cota reservada
+    187. Conforme previsão do art. 48, inciso III, da Lei Complementar 123, de 2006, e do art. 8º do Decreto nº 8.538, de 2015, na aquisição de bem de natureza divisível, quando os itens ou lotes de licitação possuírem valor estimado superior a R$ 80.000,00 (oitenta mil reais), deverá ser reservada cota de até vinte e cinco por cento do objeto para a contratação de microempresas e empresas de pequeno porte. 
+    188. Em relação às cotas exclusivas, identificam-se alguns requisitos que condicionam seu uso:
+    I) Em primeiro, a adoção da cota de 25% apenas será aplicável em certames para aquisição de bens, não sendo admitida tal restrição competitiva em licitações para contratação de serviços ou obras; e
+    II) Em segundo, esses bens devem possuir natureza divisível. Esta divisibilidade está relacionada ao item, e não à pretensão contratual como um todo. Assim, a cota exclusiva apenas pode ser utilizada caso fosse possível a cisão do item, sem prejuízo à licitação.
+    189. De acordo com o Decreto federal nº 8.538/2015, § 2º de seu artigo 8º, o edital deverá prever que, não havendo vencedor para a cota reservada (até 25%), esta poderá ser adjudicada ao vencedor da cota principal, ou, diante de sua recusa, aos licitantes remanescentes, desde que pratiquem o preço do primeiro colocado. O § 3º prevê, ainda, que se a mesma empresa vencer a cota reservada (25%) e a cota principal, a contratação da cota reservada deverá ocorrer pelo menor preço. Obviamente, o cumprimento dessas regras regulamentares apenas é possível quando a cota principal e a cota reservada se relacionam ao mesmo objeto (ou item).
+    190. Convém mencionar que a Advocacia-Geral da União, recentemente, uniformizou a aplicação de cota destinada a microempresas e empresas de pequeno porte em licitações, fixando o entendimento de que, na aplicação das cotas reservadas de até 25%, o montante destinado à contratação dessas empresas pode ultrapassar R$ 80.000,00 (oitenta mil reais), já que o dispositivo legal não determina um valor máximo (inciso III do artigo 48 da Lei Complementar nº 123/06), assim como o faz nas licitações destinadas exclusivamente a microempresas e empresas de pequeno porte (inciso I). Tal entendimento consta do DESPACHO n. 00098/2021/DECOR/CGU/AGU, de 17 de março de 2021, aprovado pelo DESPACHO n. 00115/2021/GAB/CGU/AGU, de 17 de março de 2021, e aprovado pelo Advogado-Geral da União pelo DESPACHO DO ADVOGADO-GERAL DA UNIÃO Nº 071, de 17 de março de 2021 (seq. 24 a 27 do NUP 25000.193248/2018-73. 
+    191. Deve-se ter em mente também o teor da seguinte "Orientação aos gestores para aplicação do Decreto nº 8.538/2015", publicada em 10/08/2020, no sítio eletrônico do Portal de Compras do Governo Federal (disponível em: <https://www.gov.br/compras/pt-br/centrais-de-conteudo/orientacoes-e-procedimentos/7-orientacao-aos-gestores-para-aplicacao-do-decreto-no-8-538-2015>. Acesso em: 04/12/2022), cuja consulta desde logo se recomenda.
+Do afastamento da licitação exclusiva e cota reservada
+    192. A adoção de certame exclusivo para ME/EPP (e equiparados) ou mesmo as cotas de 25% podem ser afastadas. A própria LC 123/2006 estipulou situações que justificam a não adoção, nesses certames, de competitividade restrita.
+Art. 49. Não se aplica o disposto nos arts. 47 e 48 desta Lei Complementar quando: 
+I - (Revogado);        (Redação dada pela Lei Complementar nº 147, de 2014)      (Produção de efeito) 
+II - não houver um mínimo de 3 (três) fornecedores competitivos enquadrados como microempresas ou empresas de pequeno porte sediados local ou regionalmente e capazes de cumprir as exigências estabelecidas no instrumento convocatório; 
+III - o tratamento diferenciado e simplificado para as microempresas e empresas de pequeno porte não for vantajoso para a administração pública ou representar prejuízo ao conjunto ou complexo do objeto a ser contratado; 
+IV - a licitação for dispensável ou inexigível, nos termos dos arts. 24 e 25 da Lei nº 8.666, de 21 de junho de 1993, excetuando-se as dispensas tratadas pelos incisos I e II do art. 24 da mesma Lei, nas quais a compra deverá ser feita preferencialmente de microempresas e empresas de pequeno porte, aplicando-se o disposto no inciso I do art. 48.        (Redação dada pela Lei Complementar nº 147, de 2014) 
+    193. No mesmo sentido, o art. 10 do Decreto nº 8.538, de 2015, estabelece que os tratamentos diferenciados devem ser afastados quando incidente alguma das situações previstas em seu art. 10, o que requer a devida justificativa. Dispõe referido artigo:
+Art. 10.  Não se aplica o disposto nos art. 6º ao art. 8º quando: 
+I - não houver o mínimo de três fornecedores competitivos enquadrados como microempresas ou empresas de pequeno porte sediadas local ou regionalmente e capazes de cumprir as exigências estabelecidas no instrumento convocatório; 
+II - o tratamento diferenciado e simplificado para as microempresas e as empresas de pequeno porte não for vantajoso para a administração pública OU representar prejuízo ao conjunto ou ao complexo do objeto a ser contratado, justificadamente; 
+III - a licitação for dispensável ou inexigível, nos termos dos arts. 24 e 25 da Lei nº 8.666, de 1993, excetuadas as dispensas tratadas pelos incisos I e II do caput do referido art. 24, nas quais a compra deverá ser feita preferencialmente por microempresas e empresas de pequeno porte, observados, no que couber, os incisos I, II e IV do caput deste artigo; ou 
+IV - o tratamento diferenciado e simplificado não for capaz de alcançar, justificadamente, pelo menos um dos objetivos previstos no art. 1º. 
+Parágrafo único.  Para o disposto no inciso II do caput, considera-se não vantajosa a contratação quando: 
+I - resultar em preço superior ao valor estabelecido como referência; ou 
+II - a natureza do bem, serviço ou obra for incompatível com a aplicação dos benefícios.
+(grifou-se)
+Tratamento diferenciado a ME e EPP de natureza facultativa
+    194. Há, ainda, previsão facultativa de estabelecimento, nos instrumentos convocatórios:
+    I) de exigência de subcontratação de microempresas ou empresas de pequeno porte nos termos do art. 7º do Decreto nº 8.538, de 2015;
+    II) de prioridade de contratação de microempresas e empresas de pequeno porte sediadas local ou regionalmente, até o limite de dez por cento do melhor preço válido nos termos do art. 9º, II, do Decreto nº 8.538, de 2015.
+Previsões da Lei n. 14.133, de 2021 sobre tratamento diferenciado a ME e EPP
+    195. Inicialmente, convém registrar que a Lei nº 14.133, de 2021, inovou ao tratar do tratamento diferenciado a ser conferido a ME, EPP e Cooperativas equiparadas. Por elucidativo, segue transcrição do art. 4º da Nova Lei de Licitações e Contratos Administrativos:
+Art. 4º Aplicam-se às licitações e contratos disciplinados por esta Lei as disposições constantes dos arts. 42 a 49 da Lei Complementar nº 123, de 14 de dezembro de 2006.
+§ 1º As disposições a que se refere o caput deste artigo não são aplicadas:
+I - no caso de licitação para aquisição de bens ou contratação de serviços em geral, ao item cujo valor estimado for superior à receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte;
+II - no caso de contratação de obras e serviços de engenharia, às licitações cujo valor estimado for superior à receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte.
+§ 2º A obtenção de benefícios a que se refere o caput deste artigo fica limitada às microempresas e às empresas de pequeno porte que, no ano-calendário de realização da licitação, ainda não tenham celebrado contratos com a Administração Pública cujos valores somados extrapolem a receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte, devendo o órgão ou entidade exigir do licitante declaração de observância desse limite na licitação.
+§ 3º Nas contratações com prazo de vigência superior a 1 (um) ano, será considerado o valor anual do contrato na aplicação dos limites previstos nos §§ 1º e 2º deste artigo.
+    196. Desse modo, para além da observância às regras dos artigos 42 a 49 da Lei Complementar nº 123, de 2006, e do Decreto nº 8.538, de 2015, é preciso estar claro que o tratamento diferenciado de que tratam tais normas não serão aplicados em relação a licitações que envolvam:
+    I) item cujo valor estimado for superior à receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte; e
+    II) no caso de contratação de obras e serviços de engenharia, quando o valor estimado for superior à receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte.
+    197. Adicionalmente, devem ser observados os critérios estabelecidos nos §§ 2º e 3º, acima transcritos, que tratam dos critérios para aferição dos limites de valor estabelecidos no § 1º.
+    198. No caso concreto, a minuta de edital revela que a Administração realizará licitação [com/sem] tratamento diferenciado para ME, EPP e Cooperativas assemelhadas, sendo conveniente ressaltar que [...].
+Margens de preferência
+    199. De acordo com a Lei nº 14.133, de 2021, a Administração poderá estabelecer margens de preferência, conforme premissas indicadas em seu art. 26:
+Art. 26. No processo de licitação, poderá ser estabelecida margem de preferência para:
+I - bens manufaturados e serviços nacionais que atendam a normas técnicas brasileiras;
+II - bens reciclados, recicláveis ou biodegradáveis, conforme regulamento.
+§ 1º A margem de preferência de que trata o caput deste artigo:
+I - será definida em decisão fundamentada do Poder Executivo federal, no caso do inciso I do caput deste artigo;
+II - poderá ser de até 10% (dez por cento) sobre o preço dos bens e serviços que não se enquadrem no disposto nos incisos I ou II do caput deste artigo;
+III - poderá ser estendida a bens manufaturados e serviços originários de Estados Partes do Mercado Comum do Sul (Mercosul), desde que haja reciprocidade com o País prevista em acordo internacional aprovado pelo Congresso Nacional e ratificado pelo Presidente da República.
+§ 2º Para os bens manufaturados nacionais e serviços nacionais resultantes de desenvolvimento e inovação tecnológica no País, definidos conforme regulamento do Poder Executivo federal, a margem de preferência a que se refere o caput deste artigo poderá ser de até 20% (vinte por cento).
+    200. Convém observar que o art. 27 estabelece a obrigatoriedade de divulgação, em sítio eletrônico oficial, a cada exercício financeiro, da relação de empresas favorecidas em decorrência da aplicação de margens de preferência, com indicação do volume de recursos destinados a cada uma delas.
+    201. No caso concreto, a minuta de edital revela que a Administração realizará licitação [com/sem] margem de preferência, sendo conveniente ressaltar que [...].
+Cláusula com índice de reajustamento de preços, com data-base vinculada à data do orçamento estimado
+    202. O art. 25, §7º, da Lei nº 14.133, de 2021, estabelece que, independentemente do prazo de duração do contrato, será obrigatória a previsão no edital de índice de reajustamento de preço, com data-base vinculada à data do orçamento estimado e com a possibilidade de ser estabelecido mais de um índice específico ou setorial, em conformidade com a realidade de mercado dos respectivos insumos.
+    203. No caso concreto, a minuta de edital e anexos revela que a Administração [estabeleceu/não estabeleceu] índice de reajustamento de preço conforme exigência legal, sendo conveniente ressaltar que [...].
+Minuta de termo de contrato
+    204. A minuta de termo de contrato foi juntada aos autos e reúne cláusulas e condições essenciais exigidas nos instrumentos da espécie.
+    205. Observa-se que a minuta segue o modelo elaborado pela Advocacia-Geral da União. As alterações efetuadas no modelo elaborado pela AGU foram destacadas e estão de acordo com o ordenamento jurídico, razão pela qual nada temos a ponderar.
+OU
+    206. O artigo 92 da Lei nº 14.133, de 2021, trata dos requisitos a serem observados por ocasião da elaboração da minuta de termo de contrato, sendo que o artigo 25, seu §1º, expressamente autoriza a utilização de minuta padronizada de termo de contrato, nas situações em que o objeto assim permitir.
+Da utilização ou não de minuta padronizada de termo de contrato.
+    207. Conforme já tratado neste parecer, a padronização de modelos de documentos da fase interna da licitação constitui medida de eficiência e celeridade administrativa que encontra previsão no art. 19, inciso IV, da Lei nº 14.133, de 2021.
+    208. Tal postulado foi registrado também na quarta edição do Manual de Boas Práticas Consultivas da AGU, conforme Enunciado BPC nº 06.
+    209. Para que os objetivos de celeridade, eficiência e segurança sejam alcançados, é preciso que a Administração aponte claramente:
+    I) Se houve utilização de modelos padronizados;
+    II) Qual modelo foi adotado; e
+    III) Quais foram as modificações ou adaptações eventualmente efetuadas no modelo. 
+    210. No caso, verifica-se que a Administração [utilizou/não utilizou] modelo padronizado de minuta de termo de contrato, sendo conveniente ressaltar que [...].
+Designação de agentes públicos
+    211. No presente caso, foram juntados aos autos as portarias de designação [do agente de contratação e da equipe de apoio] OU [da comissão de contratação], do gestor e fiscal(is) de contratos.
+OU
+    212. Os arts. 7º e 8º da Lei nº 14.133, de 2021, tratam da designação dos agentes públicos para desempenho das funções essenciais à execução da lei, conforme se extrai das normas abaixo transcritas:
+Art. 7º Caberá à autoridade máxima do órgão ou da entidade, ou a quem as normas de organização administrativa indicarem, promover gestão por competências e designar agentes públicos para o desempenho das funções essenciais à execução desta Lei que preencham os seguintes requisitos:
+I - sejam, preferencialmente, servidor efetivo ou empregado público dos quadros permanentes da Administração Pública;
+II - tenham atribuições relacionadas a licitações e contratos ou possuam formação compatível ou qualificação atestada por certificação profissional emitida por escola de governo criada e mantida pelo poder público; e
+III - não sejam cônjuge ou companheiro de licitantes ou contratados habituais da Administração nem tenham com eles vínculo de parentesco, colateral ou por afinidade, até o terceiro grau, ou de natureza técnica, comercial, econômica, financeira, trabalhista e civil.
+§ 1º A autoridade referida no caput deste artigo deverá observar o princípio da segregação de funções, vedada a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e de ocorrência de fraudes na respectiva contratação.
+§ 2º O disposto no caput e no § 1º deste artigo, inclusive os requisitos estabelecidos, também se aplica aos órgãos de assessoramento jurídico e de controle interno da Administração.
+Art. 8º A licitação será conduzida por agente de contratação, pessoa designada pela autoridade competente, entre servidores efetivos ou empregados públicos dos quadros permanentes da Administração Pública, para tomar decisões, acompanhar o trâmite da licitação, dar impulso ao procedimento licitatório e executar quaisquer outras atividades necessárias ao bom andamento do certame até a homologação.
+§ 1º O agente de contratação será auxiliado por equipe de apoio e responderá individualmente pelos atos que praticar, salvo quando induzido a erro pela atuação da equipe.
+§ 2º Em licitação que envolva bens ou serviços especiais, desde que observados os requisitos estabelecidos no art. 7º desta Lei, o agente de contratação poderá ser substituído por comissão de contratação formada por, no mínimo, 3 (três) membros, que responderão solidariamente por todos os atos praticados pela comissão, ressalvado o membro que expressar posição individual divergente fundamentada e registrada em ata lavrada na reunião em que houver sido tomada a decisão.
+§ 3º As regras relativas à atuação do agente de contratação e da equipe de apoio, ao funcionamento da comissão de contratação e à atuação de fiscais e gestores de contratos de que trata esta Lei serão estabelecidas em regulamento, e deverá ser prevista a possibilidade de eles contarem com o apoio dos órgãos de assessoramento jurídico e de controle interno para o desempenho das funções essenciais à execução do disposto nesta Lei.   (Regulamento)   Vigência
+§ 4º Em licitação que envolva bens ou serviços especiais cujo objeto não seja rotineiramente contratado pela Administração, poderá ser contratado, por prazo determinado, serviço de empresa ou de profissional especializado para assessorar os agentes públicos responsáveis pela condução da licitação.
+§ 5º Em licitação na modalidade pregão, o agente responsável pela condução do certame será designado pregoeiro.
+    213. As regras do art. 9º da Lei nº 14.133, de 2021, também apresentam algumas limitações a serem observadas no caso concreto:
+§ 1º Não poderá participar, direta ou indiretamente, da licitação ou da execução do contrato agente público de órgão ou entidade licitante ou contratante, devendo ser observadas as situações que possam configurar conflito de interesses no exercício ou após o exercício do cargo ou emprego, nos termos da legislação que disciplina a matéria.
+§ 2º As vedações de que trata este artigo estendem-se a terceiro que auxilie a condução da contratação na qualidade de integrante de equipe de apoio, profissional especializado ou funcionário ou representante de empresa que preste assessoria técnica.
+    214. O Decreto nº 11.246, de 27 de outubro de 2022, por sua vez, trata das regras para a atuação do agente de contratação e da equipe de apoio, bem como sobre o funcionamento da comissão de contratação e a atuação dos gestores e fiscais de contratos.
+    215. Não há dúvidas que o planejamento da contratação deve contemplar todas as regras previstas no referido Decreto. Por conta de sua relevância, convém registrar que o artigo 12 do Decreto nº 11.246, de 2022, tratou de forma mais aprofundada sobre o princípio da segregação de funções, que já estava previsto no artigo 5º e 7º, §1º, da Lei nº 14.133, de 2021, sendo certo que o administrador deve cuidar para que tais normas sejam observadas ao longo da fase interna e externa da licitação.
+Lei nº 14.133, de 2021
+Art. 5º Na aplicação desta Lei, serão observados os princípios da legalidade, da impessoalidade, da moralidade, da publicidade, da eficiência, do interesse público, da probidade administrativa, da igualdade, do planejamento, da transparência, da eficácia, da segregação de funções, da motivação, da vinculação ao edital, do julgamento objetivo, da segurança jurídica, da razoabilidade, da competitividade, da proporcionalidade, da celeridade, da economicidade e do desenvolvimento nacional sustentável, assim como as disposições do Decreto-Lei nº 4.657, de 4 de setembro de 1942 (Lei de Introdução às Normas do Direito Brasileiro).
+(...)
+Art. 7º Caberá à autoridade máxima do órgão ou da entidade, ou a quem as normas de organização administrativa indicarem, promover gestão por competências e designar agentes públicos para o desempenho das funções essenciais à execução desta Lei que preencham os seguintes requisitos:
+(...)
+§ 1º A autoridade referida no caput deste artigo deverá observar o princípio da segregação de funções, vedada a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e de ocorrência de fraudes na respectiva contratação.
+(grifou-se)
+
+Decreto nº 11.246, de 2022
+Princípio da segregação das funções
+Art. 12.  O princípio da segregação das funções veda a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e de ocorrência de fraudes na contratação.
+Parágrafo único.  A aplicação do princípio da segregação de funções de que trata o caput:
+I - será avaliada na situação fática processual; e
+II - poderá ser ajustada, no caso concreto, em razão:
+a) da consolidação das linhas de defesa; e
+b) de características do caso concreto tais como o valor e a complexidade do objeto da contratação.
+(grifou-se)
+    216. Por fim, convém observar que o artigo 29 do referido Decreto faz alusão à possibilidade de edição de normas internas a serem observadas pelos agentes públicos que atuam em licitações e contratos:
+Art. 29.  Os órgãos e as entidades, no âmbito de suas competências, poderão editar normas internas relativas a procedimentos operacionais a serem observados, na área de licitações e contratos, pelo agente de contratação, pela equipe de apoio, pela comissão de contratação, pelos gestores e pelos fiscais de contratos, observado o disposto neste Decreto.
+    217. Desse modo, para além da observância aos dispositivos da Lei nº 14.133, de 2021, do Decreto nº 11.246, de 2022, deve a Administração cuidar para que as normas internas sejam observadas na tramitação processual.
+    218. No caso concreto, os documentos que integram o planejamento da contratação [apontam/não apontam] para o atendimento às regras citadas acima, sendo conveniente ressaltar que [...].
+Publicidade do edital e do termo do contrato
+    219. Destacamos ainda que é obrigatória a divulgação e a manutenção do inteiro teor do edital de licitação e dos seus anexos e do termo de contrato no Portal Nacional de Contratações Públicas e a publicação de extrato do edital no Diário Oficial da União, conforme determinam os art. 54, caput e §1º, e art. 94 da Lei nº 14.133, de 2021.
+    220. Destacamos também que, após a homologação do processo licitatório, é obrigatória a disponibilização no Portal Nacional de Contratações Públicas (PNCP) dos documentos elaborados na fase preparatória que porventura não tenham integrado o edital e seus anexos, conforme determina o art. 54, §3º, da Lei nº 14.133, de 2021.
+CONCLUSÃO
+    221. Em face do exposto, nos limites da análise jurídica e excluídos os aspectos técnicos e o juízo de oportunidade e conveniência do ajuste, opina-se pela possibilidade jurídica do prosseguimento do presente processo, desde que cumpridos os pontos resumidamente elencados a seguir:
+    I) [Elencar recomendações];
+    II) [Elencar recomendações];
+    III) [Elencar recomendações];
+    IV) [Elencar recomendações].
+OU
+    222. Em face do exposto, nos limites da análise jurídica e excluídos os aspectos técnicos e o juízo de oportunidade e conveniência do ajuste, opina-se pela possibilidade jurídica do prosseguimento do presente processo, desde que cumpridos os pontos resumidamente elencados nos parágrafos [relacionar a numeração dos parágrafos contendo recomendações] acima.
+    223. Somente após o acatamento das recomendações emitidas ao longo do parecer, ou após seu afastamento, de forma motivada, consoante previsão do art. 50, VII, da Lei de Processo Administrativo (Lei nº 9.784, de 1999), e conforme já alertado nas considerações preliminares desta manifestação, será possível dar-se o prosseguimento do feito, nos seus demais termos, sem a necessidade de retorno para nova manifestação desta unidade jurídica, nos termos do Enunciado BPC nº 5, da AGU.
+À consideração superior.
+[Local], 1 de agosto de 2023.
+[Nome]
+[Cargo]
+Siape nº [Matrícula]

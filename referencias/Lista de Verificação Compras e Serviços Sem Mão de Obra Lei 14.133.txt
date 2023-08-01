@@ -1,0 +1,268 @@
+
+ADVOCACIA-GERAL DA UNIÃO
+CONSULTORIA-GERAL DA UNIÃO
+CAMARA NACIONAL DE MODELOS DE LICITAÇÕES E CONTRATOS ADMINISTRATIVOS - CNMLC/DECOR/CGU
+
+
+LISTA DE VERIFICAÇÃO
+(Licitação para Compras e Serviços, exceto engenharia e TIC)
+
+
+
+Notas explicativas
+
+A presente lista de verificação foi elaborada com base na disciplina conferida pela Lei nº 14.133/21 para aquisições e serviços comuns.
+
+A presente lista pressupõe a utilização dos modelos de editais, contratos e termos de referência elaborados pela CNMLC em conjunto com a Seges/ME, uma vez que tais modelos cumprem os requisitos legais essenciais, dispensando sua verificação específica1.
+
+A lista deve ser preenchida pelo órgão contratante como instrumento de transparência e eficiência durante a fase de instrução do processo para permitir a conferência das exigências mínimas nela contidas, devendo ser juntada ao processo antes da remessa ao órgão de assessoramento jurídico. 
+
+A lista foi dividida em quatro seções. A primeira trata de requisitos gerais de todas as contratações. A segunda seção abrange aspectos específicos da pesquisa de preços e das questões orçamentárias. A terceira seção abrange aspectos relativos a aquisições. A última seção abrange aspectos específicos para contratação de serviços em geral.
+
+A coluna “Atende plenamente a exigência?” deverá ser preenchida apenas com as respostas pré-definidas no formulário, sendo:
+Sim: atende plenamente a exigência
+Não: não atende plenamente a exigência
+Não se aplica: a exigência não é feita para o caso analisado
+
+Na utilização das listas deverão ser analisadas as consequências para cada negativa, se pode ser suprida mediante justificativa ou enquadramentos específicos, ou se deve haver complementação da instrução.
+
+Eventuais sugestões de alteração de texto desta lista poderão ser encaminhadas ao e-mail: cgu.modeloscontratacao@agu.gov.br
+
+
+VERIFICAÇÃO COMUM A TODAS AS CONTRATAÇÕES
+
+Atende plenamente a exigência?
+
+Indicação do local do processo em que foi atendida a exigência (doc. / fls. / SEI )
+Houve abertura de processo administrativo?2
+
+Resposta
+
+Foi adotada a forma eletrônica para o processo administrativo ou, caso adotada forma em papel, houve a devida justificativa?3 
+Resposta
+
+A autoridade competente designou os agentes públicos responsáveis pelo desempenho das funções essenciais à contratação?4 
+Resposta
+
+Foi certificado o atendimento do princípio da segregação de funções? 5
+Resposta
+
+Consta documento de formalização de demanda?6 
+Resposta
+
+Foi certificado que objeto da contratação está contemplado no Plano de Contratações Anual?7 
+Resposta
+
+Foi certificado que objeto da contratação está compatível com a Lei de Diretrizes Orçamentárias?8
+Resposta
+
+Há Estudo Técnico Preliminar?9
+Resposta
+
+O Estudo Técnico Preliminar contempla ao menos a descrição da necessidade, a estimativa do quantitativo, a estimativa do valor, a manifestação sobre o parcelamento e a manifestação sobre a viabilidade da contratação?10 
+Resposta
+
+Há Análise de Riscos?11
+Resposta
+
+Consta justificativa para a ausência dos itens não obrigatórios dos Estudos Técnicos Preliminares?12
+Resposta
+
+Houve manifestação justificando as exigências de práticas e/ou critérios de sustentabilidade ou sua dispensa no caso concreto?13
+Resposta
+
+Há termo de referência?14
+Resposta
+
+Foi certificada a utilização do Sistema TR Digital ou o atendimento das regras e procedimentos da IN ME 81/2022? 15
+
+
+Foi certificada a utilização de modelos de minutas padronizados de Termos de Referência da Advocacia-Geral União, ou as contidas no catálogo eletrônico de padronização, ou houve justificativa para sua não utilização?16
+Resposta
+
+Sendo adotado modelo padronizado de termo de referência, foram justificadas e destacadas visualmente, no processo, eventuais alterações?
+Resposta
+
+Foi certificado que o TR está alinhado com o Plano de Contratações Anual e com o Plano Diretor de Logística Sustentável, além de outros instrumentos de planejamento da Administração? 17
+Resposta
+
+O TR contempla definição do objeto, fundamentação da contratação, descrição da solução, requisitos da contratação, modelo de execução, modelo de gestão, critérios de medição e de pagamento, forma de seleção do fornecedor, estimativas do valor da contratação e, não se tratando de registro de preços, adequação orçamentária? 18
+Resposta
+
+Caso o TR contemple exigências de qualificação técnica ou econômica, elas foram justificadas no processo19? 
+Resposta
+
+Caso o TR contemple exigências de qualificação técnica, elas são específicas e objetivas?
+Resposta
+
+Caso o TR contemple exigências de qualificação técnica ou econômica e o objeto licitatório refira-se a contratações para: a) entrega imediata; b) contratações em valores inferiores a 1/4 (um quarto) do limite para dispensa de licitação para compras em geral, ou; c) contratações de produto para pesquisa e desenvolvimento até o valor de R$324.122,46 (valor atualizado anualmente), houve justificativa para não dispensá-las?20
+Resposta
+
+Ao final da elaboração do TR, houve avaliação quanto à necessidade de classificá-lo nos termos da Lei nº 12.527, de 18 de novembro de 2011? 21
+Resposta
+
+Foram utilizados os modelos padronizados de instrumentos contratuais da Advocacia-Geral da União, com eventuais alterações destacadas e justificadas, ou as contidas no catálogo eletrônico de padronização?22
+Resposta
+
+Os autos estão instruídos com o edital da licitação? 23
+Resposta
+
+Caso seja adotado o critério de julgamento por maior desconto, o preço estimado ou o máximo aceitável consta do edital da licitação? 24
+Resposta
+
+Foi utilizado modelo padronizado de edital ou justificada sua não utilização?25
+Resposta
+
+Caso o objeto contemple itens com valores inferiores a R$80.000,00, eles foram destinados às ME/EPPs e entidades equiparadas ou foi justificada a não exclusividade?
+Resposta
+
+Foi mantida no edital cláusula com índice de reajustamento de preços, com data-base vinculada à data do orçamento estimado? 26
+Resposta
+
+Caso tenha sido vedada a participação de cooperativas, consta justificativa nos autos? 27
+Resposta
+
+Caso tenha sido vedada a participação de consórcios, consta justificativa nos autos? 28
+Resposta
+
+
+
+
+VERIFICAÇÃO RELATIVA À PESQUISA DE PREÇOS E ÀS QUESTÕES ORÇAMENTÁRIAS PARA COMPRAS E SERVIÇOS EM GERAL
+
+Atende plenamente a exigência?
+
+Indicação do local do processo em que foi atendida a exigência (doc. / fls. / SEI )
+Consta orçamento estimado com as composições detalhadas dos preços utilizados para sua formação?29
+Resposta
+
+Foi certificado que o valor previamente estimado da contratação está compatível com os valores praticados pelo mercado, considerados os preços constantes de bancos de dados públicos e as quantidades a serem contratadas, observadas a potencial economia de escala e as peculiaridades do local de execução do objeto? 30
+Resposta
+
+Foi certificado que o estimado preço foi obtido com base em pelo menos três preços ou houve justificativa pelo gestor responsável e aprovada pela autoridade competente para a hipótese excepcional em que não for respeitado referido número mínimo? 31
+Resposta
+
+Caso o preço tenha sido obtido unicamente com base nos sistemas oficiais de governo, como Painel de Preços ou banco de preços em saúde, foi certificado que o valor estimado não é superior à mediana do item nos sistemas consultados? 32
+Resposta
+
+A pesquisa de preços contém, no mínimo, I - descrição do objeto a ser contratado; II - identificação do(s) agente(s) responsável(is) pela pesquisa ou, se for o caso, da equipe de planejamento; III - caracterização das fontes consultadas; IV - série de preços coletados; V - método estatístico aplicado para a definição do valor estimado; VI - justificativas para a metodologia utilizada, em especial para a desconsideração de valores inconsistentes, inexequíveis ou excessivamente elevados, se aplicável; VII - memória de cálculo do valor estimado e documentos que lhe dão suporte; e VIII - justificativa da escolha dos fornecedores, no caso da pesquisa direta de que dispõe o inciso IV do art. 5º da IN Seges 65/2021? 33
+Resposta
+
+Foi certificado que foram priorizados na pesquisa de preços os sistemas oficiais de governo, como Painel de Preços ou banco de preços em saúde, e contratações similares feitas pela Administração Pública, ou justificada a impossibilidade de utilização dessas fontes? 34
+Resposta
+
+Caso a pesquisa tenha se baseado em contratações similares feitas pela Administração Pública e já concluídas, a conclusão ocorreu em prazo inferior a 1 (um) ano à data da pesquisa de preços ou houve a devida justificativa para a utilização excepcional de preços de contratação concluída há mais de um ano? 35
+Resposta
+
+Nos casos de utilização de pesquisa direta com fornecedores, na hipótese em que ela for cabível, foi observado o número mínimo de consulta a três fornecedores ou foram instruídos os autos com as devidas justificativas? 36
+Resposta
+
+Nos casos de utilização de pesquisa direta com fornecedores, foi certificada a observância de os orçamentos obtidos serem datados no máximo com 6 meses de antecedência da data prevista para divulgação do edital ou certificado que haverá a devida atualização caso ultrapassado esse prazo? 37
+Resposta
+
+Caso realizada pesquisa direta com fornecedores, foi certificado que que o prazo de resposta concedido foi compatível com a complexidade do objeto da licitação?38
+Resposta
+
+Caso realizada pesquisa direta com fornecedores, foi certificado que os orçamentos contêm: a) descrição do objeto, valor unitário e total; b) número do Cadastro de Pessoa Física - CPF ou do Cadastro Nacional de Pessoa Jurídica - CNPJ do proponente; c) endereços físico e eletrônico e telefone de contato; d) data de emissão; e e) nome completo e identificação do responsável?39
+Resposta
+
+Caso realizada pesquisa direta com fornecedores, foi certificado que a consulta conteve informação das características da contratação contidas no art. 4º da IN Seges 65/2021, com vistas à melhor caracterização das condições comerciais praticadas para o objeto a ser contratado?40
+Resposta
+
+Caso realizada pesquisa direta com fornecedores, consta dos autos a relação de fornecedores que foram consultados e não enviaram propostas como resposta à solicitação feita?41
+Resposta
+
+Consta dos autos a motivação sobre o momento da divulgação do orçamento da licitação?42
+Resposta
+
+Tratando-se de atividade de custeio, foi certificada a observância do art. 3º do Decreto 10.193/19? 43
+Resposta
+
+Tratando-se de contratação que envolva a criação, expansão ou aperfeiçoamento de ação governamental que acarrete aumento da despesa, constam dos autos estimativa do impacto orçamentário-financeiro e declaração sobre adequação orçamentária e financeira?44
+Resposta
+
+
+VERIFICAÇÃO ESPECÍFICA PARA AQUISIÇÕES
+Atende plenamente a exigência?
+
+Indicação do local do processo em que foi atendida a exigência (doc. / fls. / SEI etc.)
+Se o objeto a ser contratado for bem de consumo, foi certificado que não se enquadra como bem de luxo? 45
+Resposta
+
+Foi certificado que a aquisição e pagamento observarão condições semelhantes às do setor privado ou houve justificativa para não observância dessas condições? 46
+Resposta
+
+Há justificativa para não utilização de sistema de registro de preços?47
+Resposta
+
+Foi certificado que a determinação do quantitativo a ser adquirido considerou a estimativa de consumo e utilização prováveis, com base em técnica adequada?48
+Resposta
+
+Há manifestação sobre o atendimento do princípio da padronização?49
+Resposta
+
+Há manifestação sobre o atendimento do princípio do parcelamento?50
+Resposta
+
+Caso o objeto contemple item de aquisição de bens de natureza divisível, com valor superior a R$80.000,00, foi prevista a cota reservada ou justificada sua não previsão?
+Resposta
+
+No caso da cota reservada, a divisão do quantitativo destinado à cota procurou observar o limite percentual de até 25% do total, independentemente do valor da cota?
+Resposta
+
+Há manifestação sobre a compatibilidade da despesa estimada com a prevista nas leis orçamentárias?51
+Resposta
+
+Consta informação do uso ou justificativa para não utilização de catálogo eletrônico de padronização?52
+Resposta
+
+Caso haja indicação de marca ou modelo, consta justificativa para a indicação?53 
+Resposta
+
+Havendo vedação de determinada marca ou produto, foi indicada a existência de processo administrativo em que esteja comprovado que não atendem às necessidades da Administração?54 
+Resposta
+
+Há certificação no ETP ou nos autos de que a opção pela aquisição é mais vantajosa do que eventuais alternativas, como a locação de bens?55
+Resposta
+
+
+
+VERIFICAÇÃO ESPECÍFICA PARA CONTRATAÇÃO DE SERVIÇOS EM GERAL 
+Atende plenamente a exigência?
+
+Indicação do local do processo em que foi atendida a exigência (doc. / fls. / SEI etc.)
+Houve manifestação quanto à observância do princípio da padronização?56 
+Resposta
+
+Houve manifestação quanto à observância do princípio do parcelamento?57 
+
+
+Consta informação do uso ou justificativa para não utilização de catálogo eletrônico de padronização?58 
+Resposta
+
+Foi certificado que os serviços a serem contratados se enquadram como as atividades materiais acessórias, instrumentais ou complementares aos assuntos que constituam área de competência legal do órgão ou da entidade?59 
+Resposta
+
+Tratando-se de serviços de manutenção e assistência técnica, o edital definiu o local da realização dos serviços? 60
+Resposta
+
+Caso o edital tenha previsto valores mínimos de salário, foi certificado que não houve fixação em valor inferior ao definido em lei ou ato normativo? 61
+Resposta
+
+Foi observada a vedação de definir forma de pagamento mediante exclusivo reembolso dos salários pagos? 62
+Resposta
+
+Foi observada a vedação de exigência que constitua intervenção indevida da Administração na gestão interna do contratado? 63
+Resposta
+
+Consta do edital que durante a vigência do contrato é vedado ao contratado contratar cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, de dirigente do órgão ou entidade contratante ou de agente público que desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato? 64
+Resposta
+
+Caso a Administração pretenda contratar mais de uma empresa para a execução do objeto, está atestado nos autos que (i) não há perda de economia de escala, (ii) é possível e conveniente a execução simultânea e (iii) há controle individualizado para a execução de cada contratado?65
+Resposta
+
+
+
+
+
+
