@@ -3,9 +3,8 @@
 
 <HEAD>
   <TITLE>Comparador de versões de documentos</TITLE>
-  <!-- Include Bootstrap CSS -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <SCRIPT SRC="https://neil.fraser.name/software/diff_match_patch/javascript/diff_match_patch.js"></SCRIPT>
+<!-- Include Bootstrap CSS -->
+<SCRIPT SRC="https://neil.fraser.name/software/diff_match_patch/javascript/diff_match_patch.js"></SCRIPT>
 </HEAD>
 
 
@@ -274,11 +273,65 @@ function loadReferenceFile() {
 }
 
 
+
+
+  text1 = `Este Webapp é um comparador de textos e foi originalmente concebido para adequar aos padrões exigidos pela AGU, mas pode ser utilizado para qualquer finalidade de comparação rápida de textos.
+  
+    Um comparador de textos é uma ferramenta ou software que analisa e identifica diferenças entre dois conjuntos de informações textuais. Comum em ambientes de programação para identificar mudanças em códigos ou para comparar diferentes versões de documentos, essa ferramenta compara linha por linha ou palavra por palavra, destacando discrepâncias entre os textos. Seja através de linhas sublinhadas, cores diferentes ou qualquer outro indicador visual, o objetivo é permitir que o usuário veja rapidamente onde estão as divergências e as semelhanças entre os dois textos.
+
+  
+`
+
+  text2 = `Este Webapp é um comparador de textos e também serve para comparar textos de normativas, boletins, legislações, dentre outros. Ele é gratuito para qualquer finalidade
+  
+  Um verificador de textos é uma aplicação ou programa que detecta e sinaliza divergências entre dois blocos de informações textuais. Muito usado em contextos de desenvolvimento para reconhecer alterações em códigos ou para cotejar diferentes edições de documentos, este programa confronta sequencialmente linhas ou palavras, evidenciando as variações entre os textos. Isso pode ser feito através de linhas marcadas, diferentes tonalidades ou outro tipo de sinalização visual, garantindo que o usuário identifique prontamente onde estão as incongruências e correspondências entre os textos.
+`
+
+
+  // Load saved data from localStorage
+  document.addEventListener("DOMContentLoaded", function () {
+    document.getElementById("text1").value = localStorage.getItem("text1") || text1;
+    document.getElementById("text2").value = localStorage.getItem("text2") || text2;
+    document.getElementById("timeout").value = localStorage.getItem("timeout") || "2";
+    document.getElementById("editcost").value = localStorage.getItem("editcost") || "10";
+    if (localStorage.getItem("cleanup") === "efficiency") {
+      document.getElementById("efficiency").checked = true;
+    } else if (localStorage.getItem("cleanup") === "raw") {
+      document.getElementById("raw").checked = true;
+    } else {
+      document.getElementById("semantic").checked = true;
+    }
+  });
+
+  // Save form data to localStorage
+  function saveFormData() {
+    localStorage.setItem("text1", document.getElementById("text1").value);
+    localStorage.setItem("text2", document.getElementById("text2").value);
+    localStorage.setItem("timeout", document.getElementById("timeout").value);
+    localStorage.setItem("editcost", document.getElementById("editcost").value);
+    if (document.getElementById("semantic").checked) {
+      localStorage.setItem("cleanup", "semantic");
+    } else if (document.getElementById("efficiency").checked) {
+      localStorage.setItem("cleanup", "efficiency");
+    } else {
+      localStorage.setItem("cleanup", "raw");
+    }
+  }
+
+
+
+
+
+
+
+
+
+
 </SCRIPT>
 
 <BODY>
   <div class="container mt-5">
-    <H1>Comparador de versões de documentos para submissão à AGU</H1>
+    <H1>Comparador de documentos para submissão à AGU</H1>
 
     <P>Diante da determinação de sinalização visual de todas as alterações em documentos licitatórios submetidos à AGU
       (Termo de referência, Contrato, Edital, etc.), surgiu a necessidade de encontrar um recurso simples e flexível
@@ -286,52 +339,38 @@ function loadReferenceFile() {
       comparar as modificações entre dois textos utilizando o excelente <A
         HREF="https://github.com/google/diff-match-patch">Diff, Match e Patch</A>.</P>
 
-    <FORM action="#" onsubmit="return false">
+  <FORM action="#" onsubmit="return false" oninput="saveFormData()">
 
-      <H3>Selecionar modelo da AGU (disponíveis em 01/08/2023):</H3>
+      <H5>Selecione um modelo da AGU para preenchimento automático (extraídos em 01/08/2023):</H5>
       <select id="selectReference" class="form-control mb-3" onchange="loadReferenceFile()">
         <option value="">Escolha uma opção...</option>
-        <option value="Lista de Verificação Compras e Serviços Sem Mão de Obra Lei 14.133.txt">Lista de Verificação
-          Compras e Serviços Sem Mão de Obra Lei 14.133</option>
-
-
-    <option value="Lista de Verificação Compras e Serviços Sem Mão de Obra Lei 14.133.txt">Lista de Verificação Compras e Serviços Sem Mão de Obra Lei 14.133</option>
-    <option value="Modelo de Contrato de Serviços Com Mão de Obra Lei 14.133.txt">Modelo de Contrato de Serviços Com Mão de Obra Lei 14.133</option>
-    <option value="Modelo de Contrato Pregão Compras Lei 14.133.txt">Modelo de Contrato Pregão Compras Lei 14.133</option>
-    <option value="Modelo de Contrato Serviços Comuns de Engenharia Lei 14.133.txt">Modelo de Contrato Serviços Comuns de Engenharia Lei 14.133</option>
-    <option value="Modelo de Contrato Serviços Sem Mão de Obra Lei 14.133.txt">Modelo de Contrato Serviços Sem Mão de Obra Lei 14.133</option>
-    <option value="Modelo de Edital de Concorrência Lei 14.133 .maio23.txt">Modelo de Edital de Concorrência Lei 14.133 .maio23</option>
-    <option value="Modelo e Ata de Registro de Preços Lei 14.133 maio23.txt">Modelo e Ata de Registro de Preços Lei 14.133 maio23</option>
-    <option value="Modelo Edital Pregão SRP Lei 14.133.txt">Modelo Edital Pregão SRP Lei 14.133</option>
-    <option value="Parecer Parametrizado Compras e Serviços Sem Mão de Obra Lei 14.133.txt">Parecer Parametrizado Compras e Serviços Sem Mão de Obra Lei 14.133</option>
-    <option value="Termo de Justificativas Técnicas Relevantes obras e serviços de engenharia (ATUALIZADO SET-2021).txt">Termo de Justificativas Técnicas Relevantes obras e serviços de engenharia (ATUALIZADO SET-2021)</option>
-    <option value="Termo de Referência Compras Lei 14.133.txt">Termo de Referência Compras Lei 14.133</option>
-    <option value="Termo de Referência Pregão Engenharia Lei 14.133.txt">Termo de Referência Pregão Engenharia Lei 14.133</option>
-    <option value="Termo de Referência Serviços Com Mão de Obra Lei 14.133.txt">Termo de Referência Serviços Com Mão de Obra Lei 14.133</option>
-    <option value="Termo de Referência Serviços Sem Mão de Obra Lei 14.133.txt">Termo de Referência Serviços Sem Mão de Obra Lei 14.133</option>
-  </select>
+        <option value="Lista de Verificação Compras e Serviços Sem Mão de Obra Lei 14.133.txt">Lista de Verificação Compras e Serviços Sem Mão de Obra Lei 14.133</option>
+        <option value="Lista de Verificação Compras e Serviços Sem Mão de Obra Lei 14.133.txt">Lista de Verificação Compras e Serviços Sem Mão de Obra Lei 14.133</option>
+        <option value="Modelo de Contrato de Serviços Com Mão de Obra Lei 14.133.txt">Modelo de Contrato de Serviços Com Mão de Obra Lei 14.133</option>
+        <option value="Modelo de Contrato Pregão Compras Lei 14.133.txt">Modelo de Contrato Pregão Compras Lei 14.133</option>
+        <option value="Modelo de Contrato Serviços Comuns de Engenharia Lei 14.133.txt">Modelo de Contrato Serviços Comuns de Engenharia Lei 14.133</option>
+        <option value="Modelo de Contrato Serviços Sem Mão de Obra Lei 14.133.txt">Modelo de Contrato Serviços Sem Mão de Obra Lei 14.133</option>
+        <option value="Modelo de Edital de Concorrência Lei 14.133 .maio23.txt">Modelo de Edital de Concorrência Lei 14.133 .maio23</option>
+        <option value="Modelo e Ata de Registro de Preços Lei 14.133 maio23.txt">Modelo e Ata de Registro de Preços Lei 14.133 maio23</option>
+        <option value="Modelo Edital Pregão SRP Lei 14.133.txt">Modelo Edital Pregão SRP Lei 14.133</option>
+        <option value="Parecer Parametrizado Compras e Serviços Sem Mão de Obra Lei 14.133.txt">Parecer Parametrizado Compras e Serviços Sem Mão de Obra Lei 14.133</option>
+        <option value="Termo de Justificativas Técnicas Relevantes obras e serviços de engenharia (ATUALIZADO SET-2021).txt">Termo de Justificativas Técnicas Relevantes obras e serviços de engenharia (ATUALIZADO SET-2021)</option>
+        <option value="Termo de Referência Compras Lei 14.133.txt">Termo de Referência Compras Lei 14.133</option>
+        <option value="Termo de Referência Pregão Engenharia Lei 14.133.txt">Termo de Referência Pregão Engenharia Lei 14.133</option>
+        <option value="Termo de Referência Serviços Com Mão de Obra Lei 14.133.txt">Termo de Referência Serviços Com Mão de Obra Lei 14.133</option>
+        <option value="Termo de Referência Serviços Sem Mão de Obra Lei 14.133.txt">Termo de Referência Serviços Sem Mão de Obra Lei 14.133</option>
+       </select>
 
 
 
     <div class="row">
         <div class="col-md-6">
-          <H3>Texto 1 (original da AGU):</H3>
-          <TEXTAREA ID="text1" CLASS="form-control" ROWS=10>Este é um exemplo de texto, cole aqui a versão do Termo de
-Referência, Contrato, Edital, etc. que você deseja usar como base para comparação. Estes arquivos estão geralmente em https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/licitacoesecontratos
-Segue um texto para testes:
-"Sou o modelo perfeito de um moderno compêndio,
-Tenho informações vegetais, animais e minerais,
-Conheço os reis da Inglaterra, e cito as lutas históricas,
-De Maratona a Waterloo, em ordem categórica."</TEXTAREA>
+          <H3>Texto original:</H3>
+          <TEXTAREA ID="text1" CLASS="form-control" ROWS=10></TEXTAREA>
         </div>
         <div class="col-md-6">
-          <H3>Texto 2 (editado por você):</H3>
-          <TEXTAREA ID="text2" CLASS="form-control" ROWS=10>Este é outro exemplo de texto, cole aqui a sua versão do
-Termo de Referência, Contrato, Edital, etc. Segue um texto para testes:
-Sou o modelo perfeito de um indivíduo de desenho animado,
-Minha animação é cômica, incomum e caprichosa,
-Sou muito bom em piadas engraçadas, li teoria cômica,
-De trocadilhos maldosos e piadas estúpidas a bigornas que caem na sua cabeça.</TEXTAREA>
+          <H3>Texto modificado:</H3>
+          <TEXTAREA ID="text2" CLASS="form-control" ROWS=10></TEXTAREA>
         </div>
       </div>
 
@@ -396,9 +435,10 @@ Se a fase de cálculo de diferenças levar mais tempo que isso, então o cálcul
 
 
 
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <!-- Include Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  
 
 </BODY>
 
