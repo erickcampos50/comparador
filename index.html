@@ -481,7 +481,8 @@ function loadReferenceFile() {
 <P style="background:#e6ffe6;">Exporte o resultado em HTML e abra com o LibreOffice Writer caso o conteúdo esteja perdendo formatação ao colar no Compras.gov.br
 </P>
 
-<P><INPUT TYPE="button" onClick="downloadHtml()" VALUE="Exportar resultado como HTML">
+
+<P><INPUT ID="exportHtmlButton" TYPE="button" VALUE="Exportar resultado como HTML">
 <INPUT TYPE="button" onClick="exportTable(window.diffResult)" VALUE="Exportar tabela com modificações como HTML">
 </P>
 <HR>
@@ -598,6 +599,7 @@ Ajuste o tamanho mínimo das inclusões para que ela seja exibida no relatório 
         
       </p>
     </div>
+	
 
   </div>
   
@@ -613,6 +615,80 @@ Ajuste o tamanho mínimo das inclusões para que ela seja exibida no relatório 
   <!-- JavaScript do Bootstrap -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
+
+
+
 </BODY>
+
+<script>
+// you should make sure that the JavaScript code is placed after the button element in your HTML code. 
+function exportDivToHtml() {
+  // Cria uma nova data e formata como uma string no formato 'yyyy-mm-dd_hh-mm-ss'
+  var now = new Date();
+  var formattedDate = now.getFullYear() + '-' + (now.getMonth() + 1).toString().padStart(2, '0') + '-' +
+    now.getDate().toString().padStart(2, '0') + '_' + now.getHours().toString().padStart(2, '0') + '-' +
+    now.getMinutes().toString().padStart(2, '0') + '-' + now.getSeconds().toString().padStart(2, '0');
+
+ 
+
+
+  // Get the content of the divoutput
+  var divContent = document.getElementById('outputdiv').innerHTML;
+
+  // Get the styles from the <style> tag
+  var styles = document.getElementsByTagName('style');
+  var combinedStyles = '';
+  for (var i = 0; i < styles.length; i++) {
+    combinedStyles += styles[i].innerHTML;
+  }
+
+  // Create a new Blob with the content and styles, and specify the type as 'text/html'
+  var htmlContent = `
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <title>Resultado da comparação</title>
+      <style>${combinedStyles}</style>
+    </head>
+    <body>
+      ${divContent}
+    </body>
+    </html>
+  `;
+  
+  
+  
+    
+
+
+
+// Define "Comparacao_" + a data atual formatada como o valor padrão para o nome do arquivo
+
+ var fileName = prompt("Digite o nome do arquivo:", "Comparacao_" + formattedDate);
+  if (fileName) {
+  var blob = new Blob([htmlContent], { type: 'text/html' });
+
+  // Create a download link
+  var link = document.createElement('a');
+  link.href = URL.createObjectURL(blob);
+
+  // Set the download attribute with the desired file name
+  link.download = fileName;
+
+  // Programmatically click the link to trigger the download
+  link.click();
+
+  // Clean up the object URL
+  URL.revokeObjectURL(link.href);
+}
+}
+// Attach the export function to the "Exportar HTML" button
+var exportButton = document.getElementById('exportHtmlButton');
+exportButton.addEventListener('click', exportDivToHtml);
+
+
+
+</script>
 
 </HTML>
