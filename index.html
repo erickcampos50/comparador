@@ -11,6 +11,122 @@
 <SCRIPT>
 var dmp = new diff_match_patch();
 
+
+
+
+// Define um estilo CSS para elementos 'Ins' como texto negrito
+var style = document.createElement('style');
+style.type = 'text/css';
+style.innerHTML = 'ins { text-decoration: none; font-weight: bold; }';
+document.getElementsByTagName('head')[0].appendChild(style);
+
+
+
+
+//Define as cores de acordo com o tamanho de caracteres
+function checkAndColorIns() {
+  // Seleciona todos os elementos 'ins'
+  var insElements = document.querySelectorAll("ins");
+  
+  // Obtém os limites definidos pelo usuário
+  var blueMin = parseInt(document.getElementById("blueMin").value);
+  var blueMax = parseInt(document.getElementById("blueMax").value);
+  var greenMin = parseInt(document.getElementById("greenMin").value);
+  var greenMax = parseInt(document.getElementById("greenMax").value);
+
+  insElements.forEach(function(element) {
+    // Obtém o texto dentro do elemento 'ins'
+    var insText = element.textContent || element.innerText;
+
+    // Reseta a cor para o padrão
+    // element.style.color = 'inherit';
+
+    // Verifica o comprimento do texto e colore de acordo
+    if (insText.length > blueMin && insText.length < blueMax) {
+      element.style.color = 'blue';
+    } else if (insText.length > greenMin && insText.length < greenMax) {
+      element.style.color = 'green';
+    } else if (insText.length > blueMax && insText.length > greenMax) {
+      element.style.color = 'red';
+    }
+	
+  });
+}
+
+
+
+
+
+
+
+// Atualiza o valor exibido ao lado do slider
+    function updateSliderValueIns() {
+      document.getElementById("sliderValueIns").textContent = document.getElementById("charLengthIns").value;
+    }
+
+	function updateSliderValueDel() {
+      document.getElementById("sliderValueDel").textContent = document.getElementById("charLengthDel").value;
+    }
+	
+	
+	
+	
+    function checkDelLengthAndHideIns() {
+      // Obtém o valor do slider
+      var charLengthIns = parseInt(document.getElementById("charLengthIns").value, 10);
+
+      // Seleciona todos os elementos 'Ins'
+      var delElements = document.querySelectorAll("Ins");
+
+      delElements.forEach(function(element) {
+        // Obtém o texto dentro do elemento 'Ins'
+        var delText = element.textContent || element.innerText;
+
+        // Verifica se o comprimento do texto é menor que o valor do slider
+        if (delText.length < charLengthIns) {
+          // Esconde o elemento 'Ins'
+          element.style.display = 'none';
+        } else {
+          // Mostra o elemento 'Ins' caso ele tenha sido escondido anteriormente
+          element.style.display = 'inline';
+        }
+      });
+    }
+	
+	function checkDelLengthAndHideDel() {
+      // Obtém o valor do slider
+      var charLength = parseInt(document.getElementById("charLengthDel").value, 10);
+
+      // Seleciona todos os elementos 'del'
+      var delElements = document.querySelectorAll("del");
+
+      delElements.forEach(function(element) {
+        // Obtém o texto dentro do elemento 'del'
+        var delText = element.textContent || element.innerText;
+
+        // Verifica se o comprimento do texto é menor que o valor do slider
+        if (delText.length < charLength) {
+          // Esconde o elemento 'del'
+          element.style.display = 'none';
+        } else {
+          // Mostra o elemento 'del' caso ele tenha sido escondido anteriormente
+          element.style.display = 'inline';
+        }
+      });
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
 function launch() {
   var text1 = document.getElementById('text1').value;
   var text2 = document.getElementById('text2').value;
@@ -91,20 +207,6 @@ function downloadHtml() {
 
 
 
-function addStyles() {
-    var style = document.createElement('style');
-    style.innerHTML = `
-    .deletado {
-        background: #9ac775;
-        text-decoration: line-through;
-    }
-    .inserido {
-        background: #f56666;
-        text-decoration: underline;
-    }`;
-    document.head.appendChild(style);
-}
-
 function convertHtml(originalHtml) {
   // Cria um novo objeto DOM a partir da string HTML
   const parser = new DOMParser();
@@ -125,7 +227,7 @@ function convertHtml(originalHtml) {
   var colorSub = document.getElementById('colorPickerSub').value;
 
   // Retorna o HTML corrigido
-  const estilo = '\n<style> .deletado { color:'+colorSub+'; text-decoration: line-through; } .inserido { color:'+colorAdd+'; text-decoration: underline; } .caixa-colorida { background-color: #f5f5f5; padding: 10px; border-radius: 10px; } </style>\n';
+  const estilo = '\n<style> .deletado { color:'+colorSub+'; text-decoration: line-through; } .inserido { color:'+colorAdd+'; text-decoration: none; } .caixa-colorida { background-color: #f5f5f5; padding: 10px; border-radius: 10px; } </style>\n';
   const begin = '<!DOCTYPE html>\n<html lang="pt-br">\n<head>\n' +
         '<meta charset="UTF-8">\n<title>Resultado da comparação</title>\n' +
         '</head>\n<body><div class="caixa-colorida"><H3>Abra este arquivo no LibreOffice Writer para conseguir copiar e colar o conteúdo nos sistemas do Compras.gov.br sem perda de formatação (testado no LibreOffice 7.5.0.3)</H3></div>\n<p>\n';
@@ -374,11 +476,30 @@ function loadReferenceFile() {
         </div>
       </div>
 
-      <H3>Ajustes no tipo e resultados das comparações</H3>
-      <P>
-        Esta implementação funciona caracter por caracter, o que é ideal para identificar mudanças sutis nos textos, no
-        entanto o resultado pode conter "exageros", ou seja, pequenas coincidências irrelevantes que complicam a leitura.
-      </P>
+<BR>
+<P><INPUT TYPE="button" onClick="launch()" VALUE="Gerar comparação e tabela com modificações"></P>
+<P style="background:#e6ffe6;">Exporte o resultado em HTML e abra com o LibreOffice Writer caso o conteúdo esteja perdendo formatação ao colar no Compras.gov.br
+</P>
+
+<P><INPUT TYPE="button" onClick="downloadHtml()" VALUE="Exportar resultado como HTML">
+<INPUT TYPE="button" onClick="exportTable(window.diffResult)" VALUE="Exportar tabela com modificações como HTML">
+</P>
+<HR>
+
+<p>
+  <button class="btn btn-secondary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+    Exibir menu de ajustes na comparação
+  </button>
+</p>
+
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+<H5>Ajustes no tipo e resultados das comparações</H5>
+<H6>(necessita clicar novamente em Gerar comparação para visualizar os resultados)</H6>
+<P>
+Esta implementação funciona caracter por caracter, o que é ideal para identificar mudanças sutis nos textos, no
+entanto o resultado pode conter "exageros", ou seja, pequenas coincidências irrelevantes que complicam a leitura.
+</P>
 
 
 <DL>
@@ -392,26 +513,61 @@ defina o nível: <INPUT TYPE="text" SIZE=3 MAXLENGTH=5 VALUE="10" ID="editcost">
 <DD>Aumenta a eficiência computacional ao remover coincidências curtas que não justificam o tempo de processamento. Quanto maior o custo de edição, mais agressiva a limpeza.</DD>
 <DT><INPUT TYPE="radio" NAME="cleanup" ID="raw">
 <LABEL FOR="raw">Sem Limpeza</LABEL></DT>
-<DD>Exibe a comparação sem modificações (saída bruta).</DD>
-</DL>
+<DD>Exibe a comparação sem modificações de legibilidade (saída bruta).</DD>
+<DT>
+<LABEL FOR="efficiency">Tempo limite de processamento da comparação:</LABEL>
+<INPUT TYPE="text" SIZE=3 MAXLENGTH=5 VALUE="2" ID="timeout"> segundos<BR><DT>
+<DD>Se a fase de cálculo de diferenças levar mais tempo que isso, então o cálculo
+é interrompido e a melhor solução até o momento é retornada. Este recurso é útil para comparações que estejam travando. Defina um tempo limite de '0' permite o melhor resultado possível independente do tempo.</DD></DL>
 
-<H3>Tempo limite de processamento da comparação:</H3>
-<P><INPUT TYPE="text" SIZE=3 MAXLENGTH=5 VALUE="2" ID="timeout"> segundos<BR>
-Se a fase de cálculo de diferenças levar mais tempo que isso, então o cálculo
-é interrompido e a melhor solução até o momento é retornada. Este recurso é útil para comparações que estejam travando. Defina um tempo limite de '0' permite o melhor resultado possível independente do tempo.</P>
+
+<input type="button" id="lauch" onclick="launch()" value="Gerar nova comparação a partir dos ajustes">
+
+<HR>
+<H5>Ajuste fino da formatação resultado final</h5>
+<H6>(não necessita gerar nova comparação)</H6>
+<p>Escolha a cor para marcar todo o conteúdo <strong>adicionado</strong>: <input type="color" id="colorPickerAdd" value="#FF0000" onchange="changeColorAdd()">
+<BR>
+Escolha a cor para marcar todo o conteúdo <strong>removido ou substituído</strong>: <input type="color" id="colorPickerSub" value="#000000" onchange="changeColorSub()">
+<BR>
+<!--  OCULTAR ELEMENTOS DELETADOS -->
+<!-- Slider para escolher o tamanho mínimo de caracteres -->
+<DD><h6><label for="charLengthDel">Ocultar as exclusões detectadas com total de caracteres inferior a:</label>
+<input type="range" id="charLengthDel" min="0" max="300" value="0" oninput="updateSliderValueDel(),checkDelLengthAndHideDel()">
+<span id="sliderValueDel">0</span></h6>
+Ajuste o tamanho mínimo da exclusão para que ela seja exibida no relatório final, o padrão é exibir todas. A ocultação das exclusões melhroa a legibilidade, mas perde-se fidelidade em relação às alterações</DD>
+<BR>
+<!--  OCULTAR ELEMENTOS INCLUIDOS -->
+<!-- Slider para escolher o tamanho mínimo de caracteres -->
+<DD><h6><label for="charLengthIns">Ocultar as inclusões detectadas com total de caracteres inferior a: </label>
+<input type="range" id="charLengthIns" min="0" max="300" value="0" oninput="updateSliderValueIns(),checkDelLengthAndHideIns()">
+<span id="sliderValueIns">0</span>
+</h6>
+Ajuste o tamanho mínimo das inclusões para que ela seja exibida no relatório final, o padrão é exibir todas. Ocultar inclusões deve ser compensado pela exibição das exclusões. <strong>USE COM CUIDADO</strong>.</DD>
+<BR>
+<!--  AJUSTAR AS CORES DE ACORDO COM O TAMANHO DE GRUPOS DE CARACTERES INCLUÍDOS -->
+<!-- Inputs para definir os limites de comprimento para a cor azul -->
+<DD><h6><label>Incluir elementos azul (preenchimento) e verde (ajustes) com base no tamanho do grupo de caracteres incluídos</label></h6>
+<label for="blueMin">Azul (min): </label>
+<input type="number" id="blueMin" value="0">
+<label for="blueMax">Azul (máx): </label>
+<input type="number" id="blueMax" value="10">
+<BR>
+<!-- Inputs para definir os limites de comprimento para a cor verde -->
+<label for="greenMin">Verde (min): </label>
+<input type="number" id="greenMin" value="11">
+<label for="greenMax">Verde (máx): </label>
+<input type="number" id="greenMax" value="40">
+</p>
+</DD>
+<!-- Botão para acionar a função -->
+<input type="button" id="checkInsButton" onclick="checkAndColorIns()" value="Colorir ajustes e preenchimento">
+<HR>
+</div>
+</div>
 
 
-<H3>Modificar as cores:</H3>
-<P>Escolha a cor para marcar todo o conteúdo <strong>adicionado</strong>: <input type="color" id="colorPickerAdd" value="#f56666" onchange="changeColorAdd()"></P>
-<P>Escolha a cor para marcar todo o conteúdo <strong>removido ou substituído</strong>: <input type="color" id="colorPickerSub" value="#000000" onchange="changeColorSub()"></P>
 
-<P><INPUT TYPE="button" onClick="launch()" VALUE="Gerar comparação e tabela com modificações"></P>
-<P style="background:#e6ffe6;">Exporte o resultado em HTML e abra com o LibreOffice Writer caso o conteúdo esteja perdendo formatação ao colar no Compras.gov.br
-</P>
-
-<P><INPUT TYPE="button" onClick="downloadHtml()" VALUE="Exportar resultado como HTML">
-<INPUT TYPE="button" onClick="exportTable(window.diffResult)" VALUE="Exportar tabela com modificações como HTML">
-</P>
 
     </FORM>
 
@@ -422,7 +578,7 @@ Se a fase de cálculo de diferenças levar mais tempo que isso, então o cálcul
   </div>
     <!-- Credits section -->
     <div class="mt-5 container ">
-      <h3>Créditos:</h3>
+      <h5>Créditos:</h5>
       <p>
         Esta aplicação foi adaptada por <strong href="erick.campos@ufjf.br">Erick C. Campos</strong> para Universidade Federal de Juiz de Fora - Campus GV utilizando a excelente biblioteca <a href="https://github.com/google/diff-match-patch">Diff, Match e Patch</a> desenvolvida por Neil Fraser.
       </p>
@@ -432,13 +588,18 @@ Se a fase de cálculo de diferenças levar mais tempo que isso, então o cálcul
     </div>
 
   </div>
-
-
-
-    <!-- Include Bootstrap CSS -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   
+
+
+
+  <!-- CSS do Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+  <!-- JavaScript do Bootstrap -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 </BODY>
 
